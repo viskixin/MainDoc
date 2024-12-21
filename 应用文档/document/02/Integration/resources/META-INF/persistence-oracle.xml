@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+                http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+             version="2.0">
+    <persistence-unit name="MSP-BO" transaction-type="RESOURCE_LOCAL">
+        <!--
+            HibernatePersistence（已被弃用；最后支持版本：5.1.8）
+        -->
+        <provider>org.hibernate.ejb.HibernatePersistence</provider>
+
+        <!--
+            HibernatePersistenceProvider（现用）
+            <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        -->
+
+        <!--
+            未解问题：idea相对路径中 “./” 和 “../” 的区别
+            <mapping-file>./entity/info/data-info.orm.xml</mapping-file>
+            <mapping-file>../entity/info/data-info.orm.xml</mapping-file>
+        -->
+        <mapping-file>entity/info/data-info.orm.xml</mapping-file>
+
+        <class>year2022.month02.entity.info.User</class>
+
+        <exclude-unlisted-classes>true</exclude-unlisted-classes>
+    </persistence-unit>
+</persistence>

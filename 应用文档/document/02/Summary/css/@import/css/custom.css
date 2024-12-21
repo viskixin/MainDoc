@@ -1,0 +1,13 @@
+/* 悬浮样式 */
+h1:hover {
+    color: pink;
+}
+
+/* 偶数样式 */
+div>p:nth-child(2n){
+    color: blue;
+}
+/* 奇数样式 */
+div>p:nth-child(2n+1){
+    color:  brown;
+}

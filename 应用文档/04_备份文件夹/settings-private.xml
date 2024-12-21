@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <!-- localRepository
+     | The path to the local repository maven will use to store artifacts.
+     |
+     | Default: ${user.home}/.m2/repository
+    <localRepository>/path/to/local/repo</localRepository>
+    -->
+
+    <!-- 配置本地仓库地址 -->
+    <localRepository>E:\ConfigurationFolder\maven\repository</localRepository>
+
+    <pluginGroups>
+
+    </pluginGroups>
+
+    <proxies>
+
+    </proxies>
+
+    <servers>
+        <!-- 配置用户名和密码 -->
+        <server>
+            <!-- 仓库的唯一标识(id与项目POM中的distributionManagement元素id必须一样) -->
+            <id>snapshots</id>
+            <username>admin</username>
+            <password>admin123</password>
+        </server>
+        <server>
+            <!-- 仓库的唯一标识(id与项目POM中的distributionManagement元素id必须一样) -->
+            <id>releases</id>
+            <username>admin</username>
+            <password>admin123</password>
+        </server>
+    </servers>
+
+    <mirrors>
+        <!-- 使用aliyun中央库替换默认中央库 -->
+        <!--<mirror>
+            <id>central</id>
+            <mirrorOf>central</mirrorOf>
+            <name>aliyun-central</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+        </mirror>-->
+
+        <!-- 私服 -->
+        <mirror>
+          <id>myNexus</id>
+          <mirrorOf>*</mirrorOf>
+          <name>Nexus-xxw</name>
+          <url>http://localhost:8888/nexus/content/groups/public/</url>
+        </mirror>
+    </mirrors>
+
+    <profiles>
+        <!-- 配置jdk的版本 -->
+        <profile>
+            <id>jdk8</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+                <jdk>1.8</jdk>
+            </activation>
+            <properties>
+                <maven.compiler.source>1.8</maven.compiler.source>
+                <maven.compiler.target>1.8</maven.compiler.target>
+                <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
+            </properties>
+        </profile>
+
+        <!-- 下载jar源码 -->
+        <profile>
+            <id>downloadSources</id>
+            <properties>
+                <downloadSources>true</downloadSources>
+                <downloadJavadocs>true</downloadJavadocs>
+            </properties>
+        </profile>
+
+        <!--<profile>
+            <pluginRepositories>
+                &lt;!&ndash; 阿里云核心插件 &ndash;&gt;
+                <pluginRepository>
+                    <id>aliyun-central</id>
+                    <name>aliyun-central</name>
+                    <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+                    <releases><enabled>true</enabled></releases>
+                    <layout>default</layout>
+                </pluginRepository>
+            </pluginRepositories>
+        </profile>-->
+
+        <!-- 私服 -->
+        <profile>
+            <id>nexusProfile</id>
+            <!-- 指定JAR下载地址 -->
+            <repositories>
+                <repository>
+                    <id>Nexus-jar</id>
+                    <name>JAR-download</name>
+                    <url>http://localhost:8888/nexus/content/groups/public/</url>
+                    <releases><enabled>true</enabled></releases>
+                    <layout>default</layout>
+                </repository>
+            </repositories>
+            <!-- 指定插件下载地址 -->
+            <pluginRepositories>
+                <pluginRepository>
+                    <id>Nexus-plug</id>
+                    <name>PLUG-download</name>
+                    <url>http://localhost:8888/nexus/content/groups/public/</url>
+                    <releases><enabled>true</enabled></releases>
+                    <layout>default</layout>
+                </pluginRepository>
+            </pluginRepositories>
+        </profile>
+    </profiles>
+
+    <!-- 激活环境配置 -->
+    <activeProfiles>
+        <activeProfile>downloadSources</activeProfile>
+        <activeProfile>nexusProfile</activeProfile>
+    </activeProfiles>
+</settings>

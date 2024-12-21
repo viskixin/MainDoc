@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+        <title>module</title>
+        <script type="text/javascript" src="./common.js"></script>
+        <!--
+            如果使用模块化语句如import、export等，script元素必须添加type="module"
+        -->
+        <script rel="stylesheet" type="module" src="./imp.js"></script>
+    </head>
+
+    <body>
+        <button type="submit" , onclick="modulePrint()">模块函数</button>
+        <button type="submit" , onclick="commonPrint()">原生函数</button>
+        <div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+        </div>
+    </body>
+</html>
+
+<!-- 
+    type为module后，声明的函数将无法被html使用
+    html只能调用普通(全局)script标签的方法
+ -->
+ <script rel="stylesheet" type="module">
+    import fromImp from './imp.js';
+    fromImp();
+</script>
+
+<!-- 普通script -->
+<script>
+    var modulePrint = function () {
+        try {
+            fromImp();
+        } catch (error) {
+            alert("老登,普通js不能调用model中的方法");
+        }
+    }
+
+    var commonPrint = function () {
+        alert("这是原生函数");
+    }
+</script>

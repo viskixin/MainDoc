@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="http://java.sun.com/xml/ns/persistence/orm"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm
+                    http://java.sun.com/xml/ns/persistence/orm_2_0.xsd"
+                 version="2.0">
+    <description>web-test security component ORM for oracle</description>
+    <package>year2022.month02.entity.info</package>
+
+    <!-- Production 即 year2022.month02.entity.info.Production -->
+    <entity class="Production">
+        <table name="TEST_PRODUCT"/>
+        <sequence-generator name="SEQ_TEST_PRODUCT" sequence-name="SEQ_TEST_PRODUCT"/>
+        <attributes>
+            <id name="id">
+                <column name="pro_id"/>
+                <generated-value strategy="SEQUENCE" generator="SEQ_TEST_PRODUCT"/>
+            </id>
+            <basic name="orderNo">
+                <column name="order_no"/>
+            </basic>
+            <basic name="productNo">
+                <column name="product_no"/>
+            </basic>
+            <basic name="empNo">
+                <column name="emp_no"/>
+            </basic>
+        </attributes>
+    </entity>
+</entity-mappings>

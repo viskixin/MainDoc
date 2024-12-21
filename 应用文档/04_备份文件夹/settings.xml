@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <!-- localRepository
+     | The path to the local repository maven will use to store artifacts.
+     |
+     | Default: ${user.home}/.m2/repository
+    <localRepository>/path/to/local/repo</localRepository>
+    -->
+	
+	<!-- 配置本地仓库地址 -->
+    <localRepository>E:\ConfigurationFolder\maven\repository</localRepository>
+
+    <pluginGroups>
+
+    </pluginGroups>
+
+    <proxies>
+
+    </proxies>
+
+    <servers>
+
+    </servers>
+
+    <mirrors>
+        <!-- 使用aliyun中央库替换默认中央库 -->
+        <mirror>
+            <id>aliyun</id>
+            <mirrorOf>central</mirrorOf>
+            <name>aliyun-central</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+        </mirror>
+    </mirrors>
+
+    <profiles>
+        <!-- 配置jdk的版本 -->
+        <profile>
+            <id>jdk8</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+                <jdk>1.8</jdk>
+            </activation>
+            <properties>
+                <maven.compiler.source>1.8</maven.compiler.source>
+                <maven.compiler.target>1.8</maven.compiler.target>
+                <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
+            </properties>
+        </profile>
+		
+        <!-- 配置模板 -->
+        <profile>
+            <id>downloadSources</id>
+            <properties>
+                <downloadSources>true</downloadSources>
+                <downloadJavadocs>true</downloadJavadocs>
+            </properties>
+        </profile>
+		
+        <profile>
+            <pluginRepositories>
+                <!-- 阿里云核心插件 -->
+                <pluginRepository>
+                    <id>aliyun-central-plug</id>
+                    <name>aliyun-download</name>
+                    <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+                    <releases><enabled>true</enabled></releases>
+                    <layout>default</layout>
+                </pluginRepository>
+            </pluginRepositories>
+        </profile>
+    </profiles>
+
+    <!-- 激活模板 -->
+    <activeProfiles>
+        <activeProfile>downloadSources</activeProfile>
+    </activeProfiles>
+</settings>

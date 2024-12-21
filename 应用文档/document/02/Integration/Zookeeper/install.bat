@@ -1,0 +1,11 @@
+prunsrv.exe "//IS//%ZOOKEEPER_SERVICE%" ^
+        --DisplayName="Zookeeper (%ZOOKEEPER_SERVICE%)" ^
+        --Description="Zookeeper (%ZOOKEEPER_SERVICE%)" ^
+        --Startup=auto --StartMode=exe ^
+        --StartPath=%ZOOKEEPER_HOME% ^
+        --StartImage=%ZOOKEEPER_HOME%\bin\zkServer.cmd ^
+        --StopPath=%ZOOKEEPER_HOME%\ ^
+        --StopImage=%ZOOKEEPER_HOME%\bin\zkServerStop.cmd ^
+        --StopMode=exe --StopTimeout=5 ^
+        --LogPath=%ZOOKEEPER_HOME% --LogPrefix=zookeeper-wrapper ^
+        --PidFile=zookeeper.pid --LogLevel=Info --StdOutput=auto --StdError=auto
