@@ -108,8 +108,8 @@ explain select min(id) from film;
 -- type等级
 	system	查询表的[结果集]只有[一行记录] (const的特例)
 	const		[查询条件]是[主键]，且只有[一行结果] (像查询常量一样)
-	eq_ref	[连接查询]，[关联表]的[条件]使用了[主键索引]进行[关联匹配]
-	ref			[连接查询]，[关联表]的[条件]使用了[辅助索引]进行[关联匹配]
+	eq_ref	[关联表]的[条件]使用了[主键索引]进行[关联匹配]
+	ref			[关联表]的[条件]使用了[辅助索引]进行[关联匹配]
 	range		[索引]进行[范围扫描]
 	index		[二级索引]进行[全表扫描]
 	ALL			[二级索引 失效]，并且需要[查询 全部结果集]，从[一级索引全表扫描]
@@ -149,6 +149,7 @@ explain select fa.id,film_id,remark from film_actor fa inner join film fm on fa.
 explain select fa.id,actor_id from film_actor fa inner join film fm on fa.actor_id = fm.id;
 # ref
 explain select * from film where name = 'film1'; -- [一级索引]关联匹配[film]的[二级索引 idx_name]
+explain select id,name from film where name = 'film1';
   /* fm 作为第1个驱动表
 	   explain select fm.id from film AS fm; -- where fm.id = fa.film_id
 	      查询条件 [不是一个精确值] → 需要[fm 全表查询]
