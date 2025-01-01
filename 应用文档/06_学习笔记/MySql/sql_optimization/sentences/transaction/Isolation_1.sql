@@ -27,7 +27,7 @@ update account set balance = balance + 500 where id = 1;
 commit; -- rollback;
 
 # [事务3] → 可重复读
-set transaction_isolation = 'read-committed';
+set transaction_isolation = 'repeatable-read';
 begin;
 update account set balance = balance + 500 where id = 1;
   /* 开启[读取3]事务 */
