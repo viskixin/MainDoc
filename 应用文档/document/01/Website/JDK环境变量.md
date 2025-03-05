@@ -6,15 +6,15 @@
 3) 找到【Path】，点击【编辑】→【新建：%JAVA_HOME%\bin】
 ```
 
-![image-20211108140712718](..\..\imgs\Oracle\JDK\image-20211108140712718.png)
+![image-20211108140712718](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211108140712718.png)
 
-![image-20211108141112400](..\..\imgs\Oracle\JDK\image-20211108141112400.png)
+![image-20211108141112400](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211108141112400.png)
 
-![image-20211108141344769](..\..\imgs\Oracle\JDK\image-20211108141344769.png)
+![image-20211108141344769](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211108141344769.png)
 
-![image-20211108161036530](..\..\imgs\Oracle\JDK\image-20211108161036530.png)
+![image-20211108161036530](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211108161036530.png)
 
-![image-20211108161226335](..\..\imgs\Oracle\JDK\image-20211108161226335.png)
+![image-20211108161226335](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211108161226335.png)
 
 #### * JDK常见问题
 
@@ -36,7 +36,7 @@
 解决办法：将【自动创建的环境变量】【下移】至【手动配置的环境变量】下方；或者删除【自动创建的环境变量】及其【路径下的文件】
 ```
 
-![image-20211108174818928](..\..\imgs\Oracle\JDK\image-20211108174818928.png)
+![image-20211108174818928](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211108174818928.png)
 
-![image-20211109103456309](..\..\imgs\Oracle\JDK\image-20211109103456309.png)
+![image-20211109103456309](..\..\..\imgs\01\Tools\Oracle\JDK\image-20211109103456309.png)
 

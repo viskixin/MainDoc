@@ -1,4 +1,3 @@
-# 文件后缀 改称 .thrift
 namespace java com.tuling
 namespace py com.tuling
 
