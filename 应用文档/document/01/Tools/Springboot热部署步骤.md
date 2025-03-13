@@ -44,12 +44,12 @@ spring:
 
 4. Ctrl + Alt + S | Build,Execution,Deployment | Compiler → 勾选 Build project automatically
 
-![image-20220510180227478](..\..\..\imgs\01\Tools\IDEA/image-20220510180227478-16521776657491.png)
+![image-20220510180227478](../../../imgs/01/Tools/IDEA/image-20220510180227478-16521776657491.png)
 
 5. Ctrl + Alt + Shift + /    →    选择 Resgistry    →    勾选 compiler.automake.allow.when.app.running
 
-![image-20220510180636023](..\..\..\imgs\01\Tools\IDEA/image-20220510180636023-16521776657502.png)
+![image-20220510180636023](../../../imgs/01/Tools/IDEA/image-20220510180636023-16521776657502.png)
 
 6. Run | Debug Configurations → 在 On Update action 中，选择 Update classes and resources
 
-![image-20220510181157891](..\..\..\imgs\01\Tools\IDEA/image-20220510181157891.png)
+![image-20220510181157891](../../../imgs/01/Tools/IDEA/image-20220510181157891.png)

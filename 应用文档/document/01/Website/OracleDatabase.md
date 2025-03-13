@@ -17,39 +17,39 @@ https://www.oracle.com/database/technologies/oracle-database-software-downloads.
 
 点击文件中的setup.exe文件，进行安装
 
-![image-20220303142507989](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303142507989.png)
+![image-20220303142507989](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303142507989.png)
 
 创建并配置单实例数据库 → 下一步
 
-![image-20220303191012332](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191012332.png)
+![image-20220303191012332](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191012332.png)
 
 桌面类 → 下一步
 
-![image-20220303191032671](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191032671.png)
+![image-20220303191032671](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191032671.png)
 
 创建新Windows用户 → 输入 用户名、口令 → 下一步 (若出现 “口令不符合 Oracle 建议标准” 弹窗，点击 “是” 继续)
 
-![image-20220303191102201](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191102201.png)
+![image-20220303191102201](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191102201.png)
 
 选择 Oracle 基目录 (不要和 Oracle 主目录相同) → 操作系统区域设置 (ZHS16GBK) → 输入 口令 → 下一步
 
-![image-20220303191918441](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191918441.png)
+![image-20220303191918441](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191918441.png)
 
 等待 先决条件检查；若出现 “无法将 xxx 安装用户添加到 %2% 组” 情况，一直点击 继续 并 等待，安装程序会将其自动到注册表中
 
-![image-20220303191918442](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191918442.png)
+![image-20220303191918442](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191918442.png)
 
 检查完之后，点击 安装
 
-![image-20220303191918443](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191918443.png)
+![image-20220303191918443](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191918443.png)
 
 等待安装；这一步会卡在42%，不要退出，大概一个多小时就直接从42%到100%了；安装日志是在不断更新的
 
-![image-20220303191918444](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191918444.png)
+![image-20220303191918444](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191918444.png)
 
 安装完成，点击 关闭
 
-![image-20220303191918445](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303191918445.png)
+![image-20220303191918445](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303191918445.png)
 
 ##### [创建用户、角色、授权](https://blog.csdn.net/zhao05164313/article/details/124172838)
 
@@ -241,7 +241,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs > Oracle - OraDBxxx
 添加完之后，保存文件；再次安装，流程正常，不再提示不满足要求
 ```
 
-![image-20220303135605683](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303135605683.png)
+![image-20220303135605683](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303135605683.png)
 
 ###### exe执行问题
 
@@ -259,13 +259,13 @@ exe可执行文件，运行会闪退；解决办法，如下：
 Win + R → 输入 lusrmgr.msc
 ```
 
-![image-20220303192511334](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303192511334.png)
+![image-20220303192511334](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303192511334.png)
 
 ```tex
 点击 用户 → 右击 添加的用户 → 点击 隶属于 → 添加 → 高级 → 立即查找 → 添加相关ORA_xxx
 ```
 
-![image-20220303193810547](..\..\..\imgs\01\Tools\Oracle\OracleDatabase/image-20220303193810547.png)
+![image-20220303193810547](../../../imgs/01/Tools/Oracle/OracleDatabase/image-20220303193810547.png)
 
 #### * Oracle客户端
 

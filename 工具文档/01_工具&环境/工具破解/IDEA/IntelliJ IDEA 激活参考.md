@@ -22,7 +22,7 @@ E:\DevDoc\scripts\idea → jetbra.zip
 
 # [IntelliJ IDEA 2024](https://shimo.im/docs/gXqmdEwygMHyrj3o/read)
 
-[安装包](https://pan.baidu.com/s/1U5DC7XisNNbz4DQIOcCoOA?pwd=2g4h) | <a href="激活脚本\2024最新永久激活.rar">本地文件</a>
+[安装包](https://pan.baidu.com/s/1U5DC7XisNNbz4DQIOcCoOA?pwd=2g4h) | <a href="激活脚本/2024最新永久激活.rar">本地文件</a>
 
 ```markdown
 # 已保存到 百度网盘
@@ -117,11 +117,11 @@ C:\Windows\System32\drivers\etc → hosts
 
 ### 下载
 
-<a href="激活脚本\JetBrains 2022 最新版本全家桶激活.rar">JetBrains 2022 最新版本全家桶激活.rar</a>
+<a href="激活脚本/JetBrains 2022 最新版本全家桶激活.rar">JetBrains 2022 最新版本全家桶激活.rar</a>
 
 > **需要的小伙伴，扫描下方公众号二维码，或者关注公众号： `Java学习者社区`，回复关键字：`idea`, 即可免费无套路获取激活码、破解补丁，持续更新中~。**
 
-![img](imgs\resources.png)
+![img](imgs/resources.png)
 
 先通过网盘下载好激活补丁，打开文件夹如下：
 
@@ -161,13 +161,13 @@ Mac/Linux 系统，点击运行 `install.sh` 脚本安装。
 
 运行脚本安装破解补丁完成后，**一定要重启 IDEA**，然后，填入下面的激活码，点击激活即可。
 
-<a href="激活码\IDEA 激活码.txt">IDEA 激活码</a>
+<a href="激活码/IDEA 激活码.txt">IDEA 激活码</a>
 
 > Jetbrains 每个产品对应激活码都不一样，其他 IDE, 如 Pycharm、Webstrom 等激活码可点击下面链接获取：
 >
 > [👉《Jetbrains 其他产品对应激活码》](https://www.exception.site/essay/jetbrains-all-active-code)
 >
-> <a href="激活码\Pycharm 激活码.txt">Pycharm</a>、<a href="激活码\Webstorm 激活码.txt">Webstorm</a>、<a href="激活码\DataGrip 激活码.txt">DataGrip</a>、<a href="激活码\Phpstorm 激活码.txt">Phpstorm</a>、<a href="激活码\AppCode 激活码.txt">AppCode</a>、<a href="激活码\Goland 激活码.txt">Goland</a>、<a href="激活码\RubyMine 激活码.txt">RubyMine</a>、<a href="激活码\Rider 激活码.txt">Rider</a>、<a href="激活码\CLion 激活码.txt">CLion</a>
+> <a href="激活码/Pycharm 激活码.txt">Pycharm</a>、<a href="激活码/Webstorm 激活码.txt">Webstorm</a>、<a href="激活码/DataGrip 激活码.txt">DataGrip</a>、<a href="激活码/Phpstorm 激活码.txt">Phpstorm</a>、<a href="激活码/AppCode 激活码.txt">AppCode</a>、<a href="激活码/Goland 激活码.txt">Goland</a>、<a href="激活码/RubyMine 激活码.txt">RubyMine</a>、<a href="激活码/Rider 激活码.txt">Rider</a>、<a href="激活码/CLion 激活码.txt">CLion</a>
 
 复制激活码后填入，点击 `Activate` 按钮完成激活(IntelliJ IDEA 和 Code With Me 都要激活)
 
