@@ -8,7 +8,7 @@ https://mp.weixin.qq.com/s/BJdI6kUJIhmWcwlK-c5tlg
 
 收录于话题#高效工具85个内容
 
-![图片](imgs\ApiPost工具\picture1.webp)
+![图片](imgs\ApiPost工具/picture1.webp)
 [图片链接](http://mp.weixin.qq.com/s?__biz=MzU5MDgyMzc2OA==&mid=2247502252&idx=1&sn=8a51beba0395e9c07abc56cd27008a28&chksm=fe3ae19bc94d688d181fc90a2ec71d2ddc0b133d35029488194a4ab6b3703238c9df552c225a&scene=21#wechat_redirect)
 [**Java进阶学习资料（免费领取视频及源码）**](https://mp.weixin.qq.com/s?__biz=MzAwMTE3MDY4MQ==&mid=2652445422&idx=3&sn=8f2630b98acb8d47fb9d524863c6414d&scene=21&token=708736224&lang=zh_CN#wechat_redirect)
 
@@ -60,7 +60,7 @@ ApiPost目前提供Window64位，Window32位、Mac、Linux版本的安装包下�
 
 API界面功能布局
 
-![图片](imgs\ApiPost工具\picture2.webp)
+![图片](imgs\ApiPost工具/picture2.webp)
 
 ### API请求参数
 
@@ -68,13 +68,13 @@ API界面功能布局
 
 你可以设置或者导入 Header 参数，cookie也在Header进行设置
 
-![图片](imgs\ApiPost工具\picture3.webp)
+![图片](imgs\ApiPost工具/picture3.webp)
 
 #### Query 参数
 
 Query 支持构造URL参数，同时支持 RESTful 的 PATH 参数（如:id）
 
-![图片](imgs\ApiPost工具\picture4.webp)
+![图片](imgs\ApiPost工具/picture4.webp)
 
 #### Body 参数
 
@@ -82,27 +82,27 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 
 - 当你需要提交表单时，切换到 x-www-form-urlencoded
 
-  ![图片](imgs\ApiPost工具\picture5.webp)
+  ![图片](imgs\ApiPost工具/picture5.webp)
 
 - 当你需要提交有文件的表单时，切换到 form-data
 
-  ![图片](imgs\ApiPost工具\picture6.webp)
+  ![图片](imgs\ApiPost工具/picture6.webp)
 
 - 当您需要发送JSON对象或者其他对象时，切换到对应的raw类型即可
 
-  ![图片](imgs\ApiPost工具\picture7.webp)
+  ![图片](imgs\ApiPost工具/picture7.webp)
 
 ### API 请求响应
 
 点击发送按钮后，如果有数据返回，则会显示返回数据，响应时间，响应码，Cookie等。
 
-![图片](imgs\ApiPost工具\picture8.webp)
+![图片](imgs\ApiPost工具/picture8.webp)
 
 注意：返回数据默认是Pretty模式，便于查看 JSON XML 格式。您可以通过切换 原生 或 预览 模式 查看其它类型的类型。
 
 #### 返回Headers
 
-![图片](imgs\ApiPost工具\picture9.webp)
+![图片](imgs\ApiPost工具/picture9.webp)
 
 ### 全局参数和目录参数
 
@@ -130,17 +130,17 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 
 当Http请求发送之后，得到的服务端返回的结果表示一个响应；其中会得到状态码、数据、Headers、Cookie等。
 
-![图片](imgs\ApiPost工具\picture10.webp)
+![图片](imgs\ApiPost工具/picture10.webp)
 
 - Headers
 
-  ![图片](imgs\ApiPost工具\picture11.webp)
+  ![图片](imgs\ApiPost工具/picture11.webp)
 
 #### 断言
 
 服务器返回了响应数据，并不代表着接口就一定正常了，很可能以为bug或者数据异常导致得到的结果并没有达到实际的预期；因此，我们就可以使用断言功能，来判断最终响应的结果是不是我们想要的；
 
-![图片](imgs\ApiPost工具\picture12.webp)
+![图片](imgs\ApiPost工具/picture12.webp)
 
 ##### 常用断言表达式
 
@@ -190,21 +190,21 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 
 当通过上述的功能验证完接口之后，即可通过`分享文档`或者`分享项目`的方式，一键生成接口文档；
 
-![图片](imgs\ApiPost工具\picture13.webp)
+![图片](imgs\ApiPost工具/picture13.webp)
 
 点击分享之后，即可拿到一个接口文档访问地址，详情如下：
 
-![图片](imgs\ApiPost工具\picture14.webp)
+![图片](imgs\ApiPost工具/picture14.webp)
 
 为了让文档的请求和响应参数更加的清晰、明确；我们可以对header、query以及form-data和urlencode的body参数进行详细的描述
 
 - 请求参数描述
 
-  ![图片](imgs\ApiPost工具\picture15.webp)
+  ![图片](imgs\ApiPost工具/picture15.webp)
 
 - 响应参数描述
 
-  ![图片](imgs\ApiPost工具\picture16.webp)
+  ![图片](imgs\ApiPost工具/picture16.webp)
 
 ## Mock
 
@@ -212,7 +212,7 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 
 ### 编写Mock 规则
 
-![图片](imgs\ApiPost工具\picture17.webp)
+![图片](imgs\ApiPost工具/picture17.webp)
 
 在APIPOST中，Mock 规则模板支持类型丰富（5.4版本起）。
 
@@ -282,11 +282,11 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 
 - 切换到Mock环境进行测试
 
-  ![图片](imgs\ApiPost工具\picture18.webp)
+  ![图片](imgs\ApiPost工具/picture18.webp)
 
 - 复制Mock地址
 
-  ![图片](imgs\ApiPost工具\picture19.webp)
+  ![图片](imgs\ApiPost工具/picture19.webp)
 
 ## 自动化测试
 
@@ -302,7 +302,7 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 4. 选择环境，点击开始测试
 5. 查看返回的测试接口
 
-![图片](imgs\ApiPost工具\picture20.webp)
+![图片](imgs\ApiPost工具/picture20.webp)
 
 # 总结
 
@@ -324,17 +324,17 @@ Body 提供三种类型 form-data / x-www-form-urlencoded / raw ，每种类型�
 
 **每天与您分享精品学习资料**
 
-![图片](imgs\ApiPost工具\picture21.webp)
+![图片](imgs\ApiPost工具/picture21.webp)
 
 ------
 
-![图片](imgs\ApiPost工具\picture22.webp)
+![图片](imgs\ApiPost工具/picture22.webp)
 
 最近开发整理了一个用于速刷面试题的小程序**[《面试手册》【点击使用】](https://mp.weixin.qq.com/s?__biz=MzU5MDgyMzc2OA==&mid=2247503142&idx=1&sn=2b3353820051f48de2fd11373957cc10&chksm=fe3ae511c94d6c0773af5749b0612603e7ae87e46964dc66ecd60ac983001706d39262b829df&mpshare=1&scene=1&srcid=1101TS4eVSX591gRSPWujzqa&sharer_sharetime=1635738540561&sharer_shareid=df2a806b4b91be1baa244338948b7984&key=efaafabd99b724e4283615fcb6abc33cbe8e729388e0fe643a58c1b86431cb1ebca8031592c749ec0bd6d714965d91cfb20189ac5f1035808d17eda2bde7651e603ecd3cddf8aeb5cb7de43301653f9946b4aa98d7209a1c9a5b6e0bd13b9884d143310f1ab737a28f68fb65b2b5e773286a1a90554a0035fd0bb384cef75fff&ascene=0&uin=MTkyMjI3MzAxNA%3D%3D&devicetype=Windows+10+x64&version=63040026&lang=zh_CN&exportkey=A6Jj%2FMmmjPlJyPpMXyaQwAU%3D&pass_ticket=l6s%2BXtTdeK8hm9K6UOEs%2Bh6T%2BsUFvYJDLE1Wqh9tptojseTDuFaqhaHLPitiAwLY&wx_header=0&fontgear=2)**；其中收录了**上千道**常见面试题及答案(包含**基础、并发、JVM、MySQL、Redis、Spring、SpringMVC、SpringBoot、SpringCloud、消息队列**等多个类型)，欢迎您的使用。QQ交流群：**912509560**
 
 ------
 
-![图片](imgs\ApiPost工具\picture23.webp)
+![图片](imgs\ApiPost工具/picture23.webp)
 
 【原创】怒肝3W字Java学习路线！从入门到封神全包了
 
