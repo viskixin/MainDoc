@@ -55,7 +55,13 @@ Region: Not specified
 Win + X → 设置(N)
 应用 → 安装的应用 → 卸载 IDEA
 Delete IntelliJ IDEA xxxx.x caches and local history (删除缓存和本地历记录)
+
+# 假设已经激活成功，可直接下载新版本，点击安装
+[√] 卸载旧版本
+[√] 静默卸载
 ```
+
+![image-20250320034511522](imgs/image-20250320034511522.png)
 
 # [IntelliJ IDEA 2022.1](https://www.exception.site/essay/idea-reset-eval)
 
