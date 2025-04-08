@@ -23,7 +23,7 @@ telegram
 2) 拖动文件到网页  →  Download
 ```
 
-## [save-editor](https://www.save-editor.com/tools/)
+## [save-editor](https://www.save-editor.com/tools)
 
 ```markdown
 # 上传(全面)
@@ -46,85 +46,511 @@ telegram
 
 # Butter
 
-## [Son of a Bitch (SOB)](https://t.me/Zhzbzx/6658)
-
-就是个混蛋_攻略
-
 ```markdown
-# 推荐版本
-V0.30
-* 最新
-V0.31
+# 游戏风格
+RTS(Real-time Strategy)				即时策略
+FPS(First-person Shooter)			第一人称射击
+TPS(Third-person Shooter)			第三人称射击
+STG(Shooting Game)					射击游戏
+FTG(Fighting Game)					格斗游戏
+ACT(Action Game)					动作游戏
+AVG(Adventure Game)					冒险游戏(也称 ADV)
+RPG(Role-playing Game)				角色扮演
+SLG(Simulation Game)				模拟游戏
+QSP(Quest Soft Player)				互动叙事游戏
+
+# 推荐标记
+★
 ```
 
-## [Son Of Asia (SOA)](https://www.patreon.com/SonOfAll)
+## 【SLG】
 
-<a href="详情文档\亚洲之子_攻略.md">亚洲之子_攻略</a>
+### [AI少女-璇玑公主]
+
+#### 详情介绍
+
+改作: AI＊Shoujo/AI＊少女
+
+整合:  [AI收集](https://store.steampowered.com/app/1250650/AIShoujoAI)
+
+原作: AI＊少女
+
+制造:  ILLUSION
+
+画风:  3D
+
+```markdown
+# 文件保存目录
+暂无
+```
+
+#### [V1.2.3](https://t.me/Zhzbzx/2511)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [甜蜜选择2-璇玑公主]
+
+#### 详情介绍
+
+改作: HoneySelect 2甜蜜选择2璇玑公主最终整合v1.2.3
+
+原作: ハニーセレクト2 リビドーDX (Honey Select 2 Libido DX)
+
+制造:  [ILLUSION](https://www.getchu.com/soft.phtml?id=1102442)
+
+画风:  3D
+
+```markdown
+# 文件保存目录
+暂无
+```
+
+#### [V2](https://t.me/Zhzbzx/9127)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [最后的希望] ★5
+
+#### 详情介绍
+
+原作:  Last Hope
+
+制造:  [PoolsideGames](https://www.patreon.com/PoolsideGames)
+
+画风:  3D
+
+```markdown
+# 文件保存目录
+%UserProfile%\AppData\Local\LastHope\Saved\SaveGames
+```
+
+#### [V1.0165](https://t.me/Zhzbzx/14751)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### V1.0196
+
+```markdown
+# Torrent
+-- Last_Hope-v1.0196.zip
+magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
+```
+
+#### 攻略
+
+```markdown
+# 葡萄酒
+医疗湾(Med Bay)
+飞行甲板(Flight Deck) → 通讯器左侧 → 椅子左扶手
+
+# 集体过夜
+盖亚全弄满
+```
+
+### [特工17] ★5
+
+#### 详情介绍
+
+原作:  Agent17
+
+制造:  [HEXATAIL](https://www.patreon.com/hexatail)
+
+画风:  3D
+
+```markdown
+# 文件保存目录
+%UserProfile%\AppData\Roaming\RenPy\Agent17-1589840340
+%UserProfile%\AppData\Roaming\RenPy\Wanderer-1574396595
+.\game\saves
+```
+
+#### [ver0.25.8](https://t.me/Zhzbzx/15289)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+[特工17](详情文档\特工17_攻略.md)
+
+### [恋爱季节:农民的梦想] ★1
+
+#### 详情介绍
+
+原作:  Love Season
+
+制造:  [MuseX](https://www.patreon.com/musex)
+
+画风:  3D
+
+```markdown
+# 文件保存目录
+暂无
+```
+
+#### [Ver2.0](https://t.me/Zhzbzx/11043)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### Ver1.0.9(圣诞特别版)
+
+```markdown
+同上
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [奇异之地]
+
+#### 详情介绍
+
+原作:  BizarreHolyLand
+
+制造:  [HMO](https://www.patreon.com/riinnmo)
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+暂无
+```
+
+#### [V47](https://t.me/Zhzbzx/14703)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [稻荷:乡村生活]
+
+#### 详情介绍
+
+原作:  Inari
+
+制造:  [HimitsuCP](https://www.dlsite.com/maniax/work/=/product_id/RJ01129998.html)
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+%UserProfile%\AppData\LocalLow\HimitsuCP\Inari\Utage\SaveScenario
+.\SaveDir
+```
+
+#### [V1.5.12](https://t.me/PerfectLife_Channel/11713)
+
+```markdown
+# Telegram
+Perfect Life CLUB
+```
+
+#### [V1.5.10](https://t.me/PerfectLife_Channel/11296) (完结)
+
+```markdown
+# Telegram
+Perfect Life CLUB
+```
+
+#### [Ver20240910](https://t.me/Zhzbzx/11202) (完结)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### [V1.3.2](https://t.me/Zhzbzx/9262)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [恶魔合约：孵化器]
+
+#### 详情介绍
+
+原作:  Incubus
+
+制造:  HimitsuCP
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+%UserProfile%\AppData\LocalLow\HimitsuCP\Incubus\Utage\Save
+%UserProfile%\AppData\LocalLow\HimitsuCP\Incubus\saveData
+```
+
+#### [V1.1.0](https://t.me/lifanhuangyouxi/7193)
+
+```markdown
+# Telegram
+里番 黄油聚集地
+```
+
+#### V1.0.1
+
+```markdown
+暂无
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+## 【RPG】
+
+### [颠覆]
+
+#### 详情介绍
+
+原作:  SUBVERSE
+
+制造:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
+
+画风:  3D
+
+```markdown
+# 文件保存目录
+暂无
+```
+
+#### [Ver8.4](https://t.me/Zhzbzx/8738)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [重时:余火再燃]
+
+#### 详情介绍
+
+制造:  [甜食工坊](https://app.unifans.io/c/sweetworkshop)
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+.\www\save
+```
+
+#### [ver25.03.15](https://t.me/Zhzbzx/15227)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [爱巢] [系列合集](https://t.me/Zhzbzx/11099)
+
+#### 详情介绍
+
+制造:  China
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+.\www\save
+```
+
+#### [v2.3](https://t.me/Zhzbzx/774) (D+N)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [绯月仙行录]
+
+#### 详情介绍
+
+制造:  [蓝月虫](https://www.patreon.com/LanYC)
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+.\save
+.\data
+```
+
+#### [ver0.628](https://t.me/Zhzbzx/13168)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### [V0.515A](https://t.me/Zhzbzx/8262)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+<a href="详情文档\绯月修仙录_攻略.md">绯月修仙录</a>
+
+### [合欢宗女修传]
+
+#### 详情介绍
+
+制造:  [月亮龙](https://www.patreon.com/yuelianglong)
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+.\save
+.\data
+```
+
+#### [v0.17](https://t.me/yuyeweimian/12899)
+
+```markdown
+# Telegram
+『雨夜凉亭』
+```
+
+#### 攻略
+
+<a href="详情文档\合欢宗女修传_攻略.md">合欢宗女修传</a>
+
+## 【QSP】
+
+### [亚洲之子]
+
+#### 详情介绍
+
+原作:  Son Of Asia (SOA)
+
+制造:  [SonOfAll](https://www.patreon.com/SonOfAll)
+
+画风:  2D
+
+```markdown
+# 文件保存目录
+%UserProfile%\Documents\Сохранения игр Quest Navigator
+```
+
+#### [V60.0e](https://t.me/Zhzbzx/7749)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### [Ver60FF](https://t.me/Zhzbzx/8182)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+<a href="详情文档\亚洲之子_攻略.md">亚洲之子</a>
 
 ```markdown
 # 推荐版本
-V60.0
+
 V55.5
 * 最新
 Ver60ff
 * 文件保存目录
-C:\Users\Viski\Documents\Сохранения игр Quest Navigator
+%UserProfile%\Documents\Сохранения игр Quest Navigator
 ```
 
-## [绯月仙行录](https://www.patreon.com/LanYC)
+### [就是个混蛋]
 
-<a href="详情文档\绯月修仙录_攻略.md">绯月修仙录_攻略</a>
+#### 详情介绍
+
+原作:  Son of a Bitch (SOB)
+
+制造:  Russia
+
+画风:  2D
 
 ```markdown
-# 作者
-蓝月虫1988
-
-# 推荐版本
-V0.515A
-V0.514A
-* (官方)最新
-V0.494A  /  V0.494B
-
 # 文件保存目录
-.\save
-.\data
+暂无
 ```
 
-## [合欢宗女修传](https://www.patreon.com/yuelianglong)
-
-<a href="详情文档\合欢宗女修传_攻略.md">合欢宗女修传_攻略.md</a>
+#### [V0.30](https://t.me/Zhzbzx/6658)
 
 ```markdown
-# 作者
-月亮龙
-
-# 文件保存目录
-.\save
-.\data
+# Telegram
+ACG便利贴(免费黄油)
 ```
 
-## 恶魔合约：孵化器
+#### 攻略
 
 ```markdown
-# 推荐版本
-Incubus V1.01
-Incubus Ver1.043
-Incubus Ver1.046
-Incubus V23.2.22
-* 最新
-Incubus V1.12
-* 文件保存目录
-C:\Users\Viski\AppData\LocalLow\HimitsuCP\Incubus\Utage\Save
-C:\Users\Viski\AppData\LocalLow\HimitsuCP\Incubus\saveData
+暂无
 ```
-
-## 伊纳里
-
-```markdown
-# 推荐版本
-Inari V1.3.2
-* 文件保存目录
-C:\Users\Viski\AppData\LocalLow\HimitsuCP\Inari\Utage\SaveScenario
-.\SaveDir
-```
-
