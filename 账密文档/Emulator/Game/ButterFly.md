@@ -59,75 +59,13 @@ RPG(Role-playing Game)				角色扮演
 SLG(Simulation Game)				模拟游戏
 QSP(Quest Soft Player)				互动叙事游戏
 
-# 推荐标记
-★
+# 推荐指数
+★number
 ```
 
 ## 【SLG】
 
-### [AI少女-璇玑公主]
-
-#### 详情介绍
-
-改作: AI＊Shoujo/AI＊少女
-
-整合:  [AI收集](https://store.steampowered.com/app/1250650/AIShoujoAI)
-
-原作: AI＊少女
-
-制造:  ILLUSION
-
-画风:  3D
-
-```markdown
-# 文件保存目录
-暂无
-```
-
-#### [V1.2.3](https://t.me/Zhzbzx/2511)
-
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [甜蜜选择2-璇玑公主]
-
-#### 详情介绍
-
-改作: HoneySelect 2甜蜜选择2璇玑公主最终整合v1.2.3
-
-原作: ハニーセレクト2 リビドーDX (Honey Select 2 Libido DX)
-
-制造:  [ILLUSION](https://www.getchu.com/soft.phtml?id=1102442)
-
-画风:  3D
-
-```markdown
-# 文件保存目录
-暂无
-```
-
-#### [V2](https://t.me/Zhzbzx/9127)
-
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [最后的希望] ★5
+### [最后的希望]
 
 #### 详情介绍
 
@@ -135,9 +73,12 @@ ACG便利贴(免费黄油)
 
 制造:  [PoolsideGames](https://www.patreon.com/PoolsideGames)
 
-画风:  3D
-
 ```markdown
+# [玩法] → [可玩性]
+[3D] → [★5]
+# [CG] → [质量]
+[3D] → [★5]
+
 # 文件保存目录
 %UserProfile%\AppData\Local\LastHope\Saved\SaveGames
 ```
@@ -168,7 +109,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 盖亚全弄满
 ```
 
-### [特工17] ★5
+### [特工17]
 
 #### 详情介绍
 
@@ -176,16 +117,18 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 制造:  [HEXATAIL](https://www.patreon.com/hexatail)
 
-画风:  3D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★3]
+# [CG] → [质量]
+[3D] → [★5]
+
 # 文件保存目录
 %UserProfile%\AppData\Roaming\RenPy\Agent17-1589840340
-%UserProfile%\AppData\Roaming\RenPy\Wanderer-1574396595
 .\game\saves
 ```
 
-#### [ver0.25.8](https://t.me/Zhzbzx/15289)
+#### [ver0.25.9](https://t.me/Zhzbzx/15289)
 
 ```markdown
 # Telegram
@@ -194,34 +137,31 @@ ACG便利贴(免费黄油)
 
 #### 攻略
 
-[特工17](详情文档\特工17_攻略.md)
+<a href="详情文档\特工17_攻略.md">特工17</a>
 
-### [恋爱季节:农民的梦想] ★1
+### [欧派奥德赛]
 
 #### 详情介绍
 
-原作:  Love Season
+原作:  OppaiOdyssey
 
-制造:  [MuseX](https://www.patreon.com/musex)
-
-画风:  3D
+制造:  [Cryoxxx](https://www.patreon.com/OppaiOdyssey)
 
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[3D] → [★3]
+
 # 文件保存目录
 暂无
 ```
 
-#### [Ver2.0](https://t.me/Zhzbzx/11043)
+#### [Ver0.4.5](https://t.me/Zhzbzx/14670)
 
 ```markdown
 # Telegram
 ACG便利贴(免费黄油)
-```
-
-#### Ver1.0.9(圣诞特别版)
-
-```markdown
-同上
 ```
 
 #### 攻略
@@ -230,22 +170,58 @@ ACG便利贴(免费黄油)
 暂无
 ```
 
-### [奇异之地]
+### [AI少女-璇玑公主]
 
 #### 详情介绍
 
-原作:  BizarreHolyLand
+原作: AI＊Shoujo/AI＊少女
 
-制造:  [HMO](https://www.patreon.com/riinnmo)
-
-画风:  2D
+制造:  [ILLUSION](https://store.steampowered.com/app/1250650/AIShoujoAI)
 
 ```markdown
+# [玩法] → [可玩性]
+[暂未探索] → [暂未探索]
+# [CG] → [质量]
+[3D] → [★5]
+
 # 文件保存目录
 暂无
 ```
 
-#### [V47](https://t.me/Zhzbzx/14703)
+#### [V1.2.3](https://t.me/Zhzbzx/2511)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [甜蜜选择2-璇玑公主]
+
+#### 详情介绍
+
+改作: HoneySelect 2甜蜜选择2璇玑公主最终整合v1.2.3
+
+原作: ハニーセレクト2 リビドーDX (Honey Select 2 Libido DX)
+
+制造:  [ILLUSION](https://www.getchu.com/soft.phtml?id=1102442)
+
+```markdown
+# [玩法] → [可玩性]
+[暂未探索] → [暂未探索]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V2](https://t.me/Zhzbzx/9127)
 
 ```markdown
 # Telegram
@@ -266,9 +242,12 @@ ACG便利贴(免费黄油)
 
 制造:  [HimitsuCP](https://www.dlsite.com/maniax/work/=/product_id/RJ01129998.html)
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[2D] → [★]
+
 # 文件保存目录
 %UserProfile%\AppData\LocalLow\HimitsuCP\Inari\Utage\SaveScenario
 .\SaveDir
@@ -316,9 +295,12 @@ ACG便利贴(免费黄油)
 
 制造:  HimitsuCP
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[2D] → [★]
+
 # 文件保存目录
 %UserProfile%\AppData\LocalLow\HimitsuCP\Incubus\Utage\Save
 %UserProfile%\AppData\LocalLow\HimitsuCP\Incubus\saveData
@@ -345,22 +327,25 @@ ACG便利贴(免费黄油)
 
 ## 【RPG】
 
-### [颠覆]
+### [我的幸福人生]
 
 #### 详情介绍
 
-原作:  SUBVERSE
+原作:  My Happy Life
 
-制造:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
-
-画风:  3D
+制造:  [BlueFish](https://www.patreon.com/BlueFishGames)
 
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★5]
+# [CG] → [质量]
+[3D] → [★5]
+
 # 文件保存目录
 暂无
 ```
 
-#### [Ver8.4](https://t.me/Zhzbzx/8738)
+#### [Ver1.4](https://t.me/Zhzbzx/13957)
 
 ```markdown
 # Telegram
@@ -379,9 +364,12 @@ ACG便利贴(免费黄油)
 
 制造:  [甜食工坊](https://app.unifans.io/c/sweetworkshop)
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★]
+# [CG] → [质量]
+[3D] → [★5]
+
 # 文件保存目录
 .\www\save
 ```
@@ -405,14 +393,48 @@ ACG便利贴(免费黄油)
 
 制造:  China
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[2D+] → [★4]
+
 # 文件保存目录
 .\www\save
 ```
 
 #### [v2.3](https://t.me/Zhzbzx/774) (D+N)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [颠覆]
+
+#### 详情介绍
+
+原作:  SUBVERSE
+
+制造:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\Subverse\Saved\SaveGames
+```
+
+#### [Ver8.4](https://t.me/Zhzbzx/8738)
 
 ```markdown
 # Telegram
@@ -431,9 +453,12 @@ ACG便利贴(免费黄油)
 
 制造:  [蓝月虫](https://www.patreon.com/LanYC)
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[2D] → [★2]
+
 # 文件保存目录
 .\save
 .\data
@@ -463,9 +488,12 @@ ACG便利贴(免费黄油)
 
 制造:  [月亮龙](https://www.patreon.com/yuelianglong)
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★]
+# [CG] → [质量]
+[2D] → [★]
+
 # 文件保存目录
 .\save
 .\data
@@ -492,9 +520,12 @@ ACG便利贴(免费黄油)
 
 制造:  [SonOfAll](https://www.patreon.com/SonOfAll)
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★3]
+# [CG] → [质量]
+[日本作品] → [★4]
+
 # 文件保存目录
 %UserProfile%\Documents\Сохранения игр Quest Navigator
 ```
@@ -517,16 +548,6 @@ ACG便利贴(免费黄油)
 
 <a href="详情文档\亚洲之子_攻略.md">亚洲之子</a>
 
-```markdown
-# 推荐版本
-
-V55.5
-* 最新
-Ver60ff
-* 文件保存目录
-%UserProfile%\Documents\Сохранения игр Quest Navigator
-```
-
 ### [就是个混蛋]
 
 #### 详情介绍
@@ -535,9 +556,12 @@ Ver60ff
 
 制造:  Russia
 
-画风:  2D
-
 ```markdown
+# [玩法] → [可玩性]
+[2D] → [★3]
+# [CG] → [质量]
+[欧美作品] → [暂未探索]
+
 # 文件保存目录
 暂无
 ```
