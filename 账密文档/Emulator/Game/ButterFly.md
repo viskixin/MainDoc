@@ -139,6 +139,37 @@ ACG便利贴(免费黄油)
 
 <a href="详情文档\特工17_攻略.md">特工17</a>
 
+### [莉莉的情欲迷宫]
+
+#### 详情介绍
+
+原作:  Lily’s Labyrinth of Lust
+
+制造:  [Erommersion](https://www.patreon.com/erommersion/posts)
+
+```markdown
+# [玩法] → [可玩性]
+[3D] → [★1]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [V0.8.5](https://t.me/yuyeweimian/14339)
+
+```markdown
+# Telegram
+『雨夜凉亭』ACG频道
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ### [欧派奥德赛]
 
 #### 详情介绍
@@ -327,37 +358,6 @@ ACG便利贴(免费黄油)
 
 ## 【RPG】
 
-### [我的幸福人生]
-
-#### 详情介绍
-
-原作:  My Happy Life
-
-制造:  [BlueFish](https://www.patreon.com/BlueFishGames)
-
-```markdown
-# [玩法] → [可玩性]
-[2D] → [★5]
-# [CG] → [质量]
-[3D] → [★5]
-
-# 文件保存目录
-暂无
-```
-
-#### [Ver1.4](https://t.me/Zhzbzx/13957)
-
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
-
-#### 攻略
-
-```markdown
-暂无
-```
-
 ### [重时:余火再燃]
 
 #### 详情介绍
@@ -375,6 +375,37 @@ ACG便利贴(免费黄油)
 ```
 
 #### [ver25.03.15](https://t.me/Zhzbzx/15227)
+
+```markdown
+# Telegram
+ACG便利贴(免费黄油)
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [我的幸福人生]
+
+#### 详情介绍
+
+原作:  My Happy Life
+
+制造:  [BlueFish](https://www.patreon.com/BlueFishGames)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [Ver1.4.1](https://t.me/Zhzbzx/13957)
 
 ```markdown
 # Telegram
