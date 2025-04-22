@@ -3,8 +3,8 @@
 	8.x中的版本使用的是"transaction_isolation"
 	  默认："REPEATABLE-READ"
   
-	注意：测试下一个事务之前，先把当前事务提交
-	      (或者每一个事务单独开个session，防止忘记提交而导致测试结果不符合预期)
+  注意：测试下一个事务之前，先把当前事务提交
+	   (或者每一个事务单独开个session，防止忘记提交而导致测试结果不符合预期)
 */
 show variables like '%transaction_isolation%';
 # 查看是否自动提交
@@ -49,7 +49,7 @@ select * from account;
 		总结：
 		  select 是快照读(历史版本)
 		  insert、delete、update 是当前读(当前最新提交版本)
-			read committed 语句级快照
+			read-committed 语句级快照
 			repeatable-read 事务级快照
 	*/
 -- 1
@@ -70,10 +70,10 @@ begin;
 select * from account where id = 2;
 	/* 若 update 之后开启[读取4]事务
 	   则[读取4]不能进行读操作，[读取4 select]需要[事务4 commit]之后才能读
-		 
-		 该级别在处理读的时候，相当于在读的最后面加了读锁 select ... lock in share mode (也可以手动在以上三个事务中加上)
-		 写操作默认都会加写锁，当然也可以为读加写锁，select ... for update;
-		 所以该级别能解决上面所有问题，包括脏写(前三个事务都会有)
+	   
+	   该级别在处理读的时候，相当于在读的最后面加了读锁 select ... lock in share mode (也可以手动在以上三个事务中加上)
+	   写操作默认都会加写锁，当然也可以为读加写锁，select ... for update;
+	   所以该级别能解决上面所有问题，包括脏写(前三个事务都会有)
 	*/
 update account set balance = balance + 50 where id = 1;
 commit; -- rollback;

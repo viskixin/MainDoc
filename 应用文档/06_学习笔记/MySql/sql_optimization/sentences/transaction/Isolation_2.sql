@@ -12,10 +12,10 @@ select * from account where id = 1;
 /* 此时返回[事务1]
      
 		 若[事务1][提交]后，再回来[select、commit]
-		   则[commit 前后 select]读取的数据[都一致]
+		 则[commit 前后 select]读取的数据[都一致]
 		 
 		 若[事务1][回滚]后，再回来[select、commit]
-		   则[commit 前 select]读取到[事务1][未提交]的数据，称为[脏读]
+		 则[commit 前 select]读取到[事务1][未提交]的数据，称为[脏读]
 */
 select * from account where id = 1;
 commit;
@@ -27,10 +27,10 @@ select * from account where id = 1;
 /* 此时返回[事务2]
      
 		 若[事务2][提交]后，再回来[select、commit]
-		   则[commit 前 不同时间段select]读取的数据[会不一致]，称为[不可重复读]
+		 则[commit 前 不同时间段select]读取的数据[会不一致]，称为[不可重复读]
 		 
 		 若[事务2][回滚]后，再回来[select、commit]
-		   则[commit 前后 select]读取的数据[都一致]
+		 则[commit 前后 select]读取的数据[都一致]
 */
 select * from account where id = 1;
 commit;
@@ -39,18 +39,18 @@ commit;
 set transaction_isolation = 'repeatable-read';
 /* 设置该隔离级别
      刚开启时，会对所有数据建一个快照，从快照中读取数据
-		 这种情况下，该事务[begin]和[commit]任意时间段内，读取的数据[都一致]
+	 这种情况下，该事务[begin]和[commit]任意时间段内，读取的数据[都一致]
 */
 begin;
 select * from account;
 /* 此时返回[事务3]
      
 		 若[事务3][提交]后，再回来[select、commit]
-		   则[commit 前后 select]读取的数据[会不一致]
-			 但[commit 前 任意时间段内select]读取的数据[都一致]
+		 则[commit 前后 select]读取的数据[会不一致]
+		 但[commit 前 任意时间段内select]读取的数据[都一致]
 		 
-		 若[事务2][回滚]后，再回来[select、commit]
-		   则[commit 前后 select]读取的数据[都一致]的
+		 若[事务3][回滚]后，再回来[select、commit]
+		 则[commit 前后 select]读取的数据[都一致]的
 */
 select * from account;
 commit;
