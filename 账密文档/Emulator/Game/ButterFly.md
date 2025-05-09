@@ -63,6 +63,81 @@ QSP(Quest Soft Player)				互动叙事游戏
 ★number
 ```
 
+## 【ACT】
+
+### [致命解药]
+
+#### 详情介绍
+
+原作:  The Killing Antidote
+
+作者:  Johnny & Naux
+
+发行:  [MetalStar Studio](https://store.steampowered.com/app/2254890)
+
+```markdown
+# [玩法] → [可玩性]
+[3D] → [★5]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
+# 截图目录
+%UserProfile%\AppData\Local\TheKillingAntidote\Screenshots
+```
+
+#### [v0.5.3.1](https://steamzg.com/48698) | [其他资源](https://steamzg.com)
+
+```markdown
+# 阿里云盘
+全部文件/Game/致命解药 v0.5.3.1
+
+# 可能密码
+ACGBNS.COM
+acgbns.com
+ACGBNS
+```
+
+#### [v0.5.2.3](https://www.ns211.com/15224.html) | [其他资源](https://www.ns211.com)
+
+```markdown
+# 夸克网盘
+文件/Game/致命解药 v0.5.2.3
+```
+
+#### [v0.5.2.2](https://t.me/ElysiumButter/30850)
+
+```markdown
+# Telegram
+小黑的炸鸡游戏屋
+```
+
+#### 攻略
+
+```markdown
+# 密码
+01) 出生点不远房间：5678（右侧墙壁上有写）
+02) 第一个集装箱区域2楼控制室：#520（右边仪器上有写）
+03) A1区队长室：0609（进门后回头门左侧墙壁上）
+04) 资料室：0000（队长室电脑重置后才有效，电脑将密码重置后小心第一波尸潮）
+05) A3角落1：1314（哭泣者录音）
+07) A3角落2：1180（待定）
+06) A3区策划部：0210（进门后左侧墙上右上角照片翻过来有写）
+08) A3区值班室：3964（墙上海报的同心圆图案从内环到外环的缺口位置的几点钟方向）
+09) A4区冲锋枪：3758（圣诞图横三竖四为一区域，从左往右上到下，礼物的位置为提示）
+11) 哨兵：9842（四张海报数字位置顺序）
+12) 小爬虫：2940（待定）
+13) D4楼：9885（待定）
+14) A4楼：6083（待定）
+15) A4电梯控制室：3974（两个柜子内部）
+
+# 其他问题
+01) 霰弹枪拿法：需要在出生点宿舍，往霰弹枪房间看，用子弹射击内部门旁的开关，变绿即可；
+02) 冲锋枪拿法：上文有述；
+03) 隐藏区域1：第一个集装箱区域墙壁上：需要感应地雷，贴墙往上丢，再远程打炸；
+04) 隐藏区域2：A区和B区之间的连廊，空调外机的裂缝，方法同上炸开即可，注意跳跃距离；
+05) 红色卡随机的3个位置：浴室洗手台上/边上长椅上/右边柜子里。
+```
+
 ## 【SLG】
 
 ### [最后的希望]
@@ -71,7 +146,7 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 原作:  Last Hope
 
-制造:  [PoolsideGames](https://www.patreon.com/PoolsideGames)
+发行:  [PoolsideGames](https://www.patreon.com/PoolsideGames)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -115,7 +190,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 原作:  Agent17
 
-制造:  [HEXATAIL](https://www.patreon.com/hexatail)
+发行:  [HEXATAIL](https://www.patreon.com/hexatail)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -145,7 +220,7 @@ ACG便利贴(免费黄油)
 
 原作:  Lily’s Labyrinth of Lust
 
-制造:  [Erommersion](https://www.patreon.com/erommersion/posts)
+发行:  [Erommersion](https://www.patreon.com/erommersion/posts)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -176,7 +251,7 @@ ACG便利贴(免费黄油)
 
 原作:  OppaiOdyssey
 
-制造:  [Cryoxxx](https://www.patreon.com/OppaiOdyssey)
+发行:  [Cryoxxx](https://www.patreon.com/OppaiOdyssey)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -207,7 +282,7 @@ ACG便利贴(免费黄油)
 
 原作: AI＊Shoujo/AI＊少女
 
-制造:  [ILLUSION](https://store.steampowered.com/app/1250650/AIShoujoAI)
+发行:  [ILLUSION](https://store.steampowered.com/app/1250650/AIShoujoAI)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -240,7 +315,7 @@ ACG便利贴(免费黄油)
 
 原作: ハニーセレクト2 リビドーDX (Honey Select 2 Libido DX)
 
-制造:  [ILLUSION](https://www.getchu.com/soft.phtml?id=1102442)
+发行:  [ILLUSION](https://www.getchu.com/soft.phtml?id=1102442)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -271,7 +346,7 @@ ACG便利贴(免费黄油)
 
 原作:  Inari
 
-制造:  [HimitsuCP](https://www.dlsite.com/maniax/work/=/product_id/RJ01129998.html)
+发行:  [HimitsuCP](https://www.dlsite.com/maniax/work/=/product_id/RJ01129998.html)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -324,7 +399,7 @@ ACG便利贴(免费黄油)
 
 原作:  Incubus
 
-制造:  HimitsuCP
+发行:  HimitsuCP
 
 ```markdown
 # [玩法] → [可玩性]
@@ -362,7 +437,7 @@ ACG便利贴(免费黄油)
 
 #### 详情介绍
 
-制造:  [甜食工坊](https://app.unifans.io/c/sweetworkshop)
+发行:  [甜食工坊](https://app.unifans.io/c/sweetworkshop)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -393,7 +468,7 @@ ACG便利贴(免费黄油)
 
 原作:  My Happy Life
 
-制造:  [BlueFish](https://www.patreon.com/BlueFishGames)
+发行:  [BlueFish](https://www.patreon.com/BlueFishGames)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -422,7 +497,7 @@ ACG便利贴(免费黄油)
 
 #### 详情介绍
 
-制造:  China
+发行:  China
 
 ```markdown
 # [玩法] → [可玩性]
@@ -453,7 +528,7 @@ ACG便利贴(免费黄油)
 
 原作:  SUBVERSE
 
-制造:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
+发行:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -482,7 +557,7 @@ ACG便利贴(免费黄油)
 
 #### 详情介绍
 
-制造:  [蓝月虫](https://www.patreon.com/LanYC)
+发行:  [蓝月虫](https://www.patreon.com/LanYC)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -517,7 +592,7 @@ ACG便利贴(免费黄油)
 
 #### 详情介绍
 
-制造:  [月亮龙](https://www.patreon.com/yuelianglong)
+发行:  [月亮龙](https://www.patreon.com/yuelianglong)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -549,7 +624,7 @@ ACG便利贴(免费黄油)
 
 原作:  Son Of Asia (SOA)
 
-制造:  [SonOfAll](https://www.patreon.com/SonOfAll)
+发行:  [SonOfAll](https://www.patreon.com/SonOfAll)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -585,7 +660,7 @@ ACG便利贴(免费黄油)
 
 原作:  Son of a Bitch (SOB)
 
-制造:  Russia
+发行:  Russia
 
 ```markdown
 # [玩法] → [可玩性]
