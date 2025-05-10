@@ -44,6 +44,34 @@ telegram
 同上
 ```
 
+# Mods
+
+## 【[N网](https://www.nexusmods.com)】
+
+```markdown
+# 账密
+outtaame@gmail.com
+Xw2244255266
+```
+
+### [The Killing Antidote](https://www.nexusmods.com/games/thekillingantidote)
+
+```markdown
+# 详细地址
+https://www.nexusmods.com/games/thekillingantidote/mods
+```
+
+## 【[创意工坊](https://steamcommunity.com/workshop)】
+
+### [The Killing Antidote](https://steamcommunity.com/app/2254890/workshop)
+
+```markdown
+# Jodi的眉妆
+https://steamcommunity.com/sharedfiles/filedetails/?id=3421366881
+-- 订阅后下载(切换下载地区之后重试)
+如果不能下载 → 点击 Steam → 设置 → 下载 → 下载地区[中国-香港]
+```
+
 # Butter
 
 ```markdown
@@ -109,6 +137,16 @@ ACGBNS
 ```markdown
 # Telegram
 小黑的炸鸡游戏屋
+```
+
+#### [Mods](#Mods)
+
+```markdown
+# 使用方法(放入文件到以下目录，没有则手动创建)
+.\TheKillingAntidote\Content\Paks\~mods
+
+# 地址1
+https://m.3dmgame.com/dl/patch/mzjymz.html
 ```
 
 #### 攻略
