@@ -3,6 +3,7 @@
 ```tex
 telegram
 百度贴吧
+...
 ```
 
 # 修改网址
@@ -42,34 +43,6 @@ telegram
 
 -- RPG MAKER MV SAVE EDITOR
 同上
-```
-
-# Mods
-
-## 【[N网](https://www.nexusmods.com)】
-
-```markdown
-# 账密
-outtaame@gmail.com
-Xw2244255266
-```
-
-### [The Killing Antidote](https://www.nexusmods.com/games/thekillingantidote)
-
-```markdown
-# 详细地址
-https://www.nexusmods.com/games/thekillingantidote/mods
-```
-
-## 【[创意工坊](https://steamcommunity.com/workshop)】
-
-### [The Killing Antidote](https://steamcommunity.com/app/2254890/workshop)
-
-```markdown
-# Jodi的眉妆
-https://steamcommunity.com/sharedfiles/filedetails/?id=3421366881
--- 订阅后下载(切换下载地区之后重试)
-如果不能下载 → 点击 Steam → 设置 → 下载 → 下载地区[中国-香港]
 ```
 
 # Butter
@@ -113,19 +86,16 @@ QSP(Quest Soft Player)				互动叙事游戏
 %UserProfile%\AppData\Local\TheKillingAntidote\Screenshots
 ```
 
-#### [v0.5.3.1](https://steamzg.com/48698) | [其他资源](https://steamzg.com)
+#### [v0.5.3.1](https://steamzg.com/48698)
 
 ```markdown
+# 夸克网盘
+文件/Game/致命解药 v0.5.3.1
 # 阿里云盘
 全部文件/Game/致命解药 v0.5.3.1
-
-# 可能密码
-ACGBNS.COM
-acgbns.com
-ACGBNS
 ```
 
-#### [v0.5.2.3](https://www.ns211.com/15224.html) | [其他资源](https://www.ns211.com)
+#### [v0.5.2.3](https://www.ns211.com/15224.html)
 
 ```markdown
 # 夸克网盘
@@ -139,11 +109,12 @@ ACGBNS
 小黑的炸鸡游戏屋
 ```
 
-#### [Mods](#Mods)
+#### [Mods](./Resources.md#Mods)
 
 ```markdown
 # 使用方法(放入文件到以下目录，没有则手动创建)
 .\TheKillingAntidote\Content\Paks\~mods
+.\TheKillingAntidote\Mods
 
 # 地址1
 https://m.3dmgame.com/dl/patch/mzjymz.html
@@ -722,3 +693,8 @@ ACG便利贴(免费黄油)
 ```markdown
 暂无
 ```
+
+# GameSource
+
+<a href="./Resources.md">Resources</a>
+
