@@ -3,6 +3,7 @@
 ## 【[小叽资源](https://steamzg.com)】
 
 ```markdown
+# 账密
 暂无
 ```
 
@@ -48,6 +49,20 @@ ACGBNS
 what.0414
 # 用户名
 Viski
+```
+
+## 【[胖达游戏](https://www.pangdagame.com)】
+
+```markdown
+# 账密
+暂无
+```
+
+## 【[Switch520](https://www.gamer520.com)】
+
+```markdown
+# 账密
+暂无
 ```
 
 ## 【[任天堂](https://www.nintendo.com)】
