@@ -80,11 +80,15 @@ QSP(Quest Soft Player)				互动叙事游戏
 # [玩法] → [可玩性]
 [3D] → [★5]
 
-# 文件保存目录
-%UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
 # 截图目录
 %UserProfile%\AppData\Local\TheKillingAntidote\Screenshots
+# 文件保存目录
+%UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
 ```
+
+全服装  →  [TKAPlayer.sav](./详情文档/致命解药/clothes)
+
+穿搭文件  →  [Makeup.sav & Outfits.sav & TKAPlayer.sav](./详情文档/致命解药/outfits)
 
 #### [v0.5.3.1](https://steamzg.com/48698)
 
@@ -113,7 +117,9 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # 使用方法(放入文件到以下目录，没有则手动创建)
+-- 发型、脸型、武器
 .\TheKillingAntidote\Content\Paks\~mods
+-- 地图、服装、妆容、皮肤、纹身、功能
 .\TheKillingAntidote\Mods
 
 # 地址1

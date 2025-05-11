@@ -20,10 +20,22 @@
 替换成  https://91bpw/XJ03000/
 ```
 
-### # 可能密码
+### # [解压/安装]密码
 
 ```markdown
+# 2024年4月16日以后新密码都改成
 ACGBNS.COM
+
+# 常用密码
+02acg.com
+
+# 非常用密码
+02ACG
+steamzg.com
+91bpw.com
+91白嫖网
+
+# 弃用密码
 acgbns.com
 ACGBNS
 ```
