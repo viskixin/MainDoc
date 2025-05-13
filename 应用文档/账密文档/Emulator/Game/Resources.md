@@ -1,4 +1,4 @@
-# 游戏包
+# 游戏包(Normal)
 
 ## 【[小叽资源](https://steamzg.com)】
 
@@ -70,6 +70,33 @@ Viski
 ```markdown
 # 账密
 暂无
+```
+
+# 游戏包(Butter)
+
+## 【[维咔](https://www.vikacg.com)】
+
+```markdown
+# 账密
+1770282632@qq.com
+what.0414
+# 用户名
+casualway
+```
+
+## 【[78游戏GO](http://78gamingacg.com)】
+
+```markdown
+# 账密
+同上
+# 用户名
+同上
+
+# 解压密码
+78acgn.com
+78acg.com
+78gamego
+http://78gamego.com
 ```
 
 # Mods
