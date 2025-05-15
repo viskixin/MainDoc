@@ -1,50 +1,3 @@
-# 资源来源
-
-```tex
-telegram
-百度贴吧
-...
-```
-
-# 修改网址
-
-## [saveeditonline](https://www.saveeditonline.com)
-
-```markdown
-# 上传(慢)
-1) UPLOAD FILE  →  Download xxx.xxx
-2) 拖动文件到网页  →  Download xxx.xxx
-```
-
-## [saveeditor](https://saveeditor.online)
-
-```markdown
-# 上传(快)
-1) Upload  →  Download
-2) 拖动文件到网页  →  Download
-```
-
-## [save-editor](https://www.save-editor.com/tools)
-
-```markdown
-# 上传(全面)
-
--- RPG MAKER MZ SAVE EDITOR
-1) SELECT  SAVE EDITOR
-   SELECT  JSON EDITOR
-                        →  选择文件  →  RUN  →  EDIT & DOWNLOAD  →  DOWNLOAD
-2) SELECT  SAVE EDITOR
-   SELECT  JSON EDITOR
-                        →  [拖动文件]到[选择文件]界面  →  RUN  →  EDIT & DOWNLOAD  →  DOWNLOAD
-
--- RPG MAKER MV GAME EDITOR
-1) 选择文件  →  RUN  →  ...
-2) [拖动文件]到[选择文件]界面  →  RUN  →  ...
-
--- RPG MAKER MV SAVE EDITOR
-同上
-```
-
 # Butter
 
 ```markdown
@@ -104,16 +57,35 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 #### [v0.5.2.2](https://t.me/ElysiumButter/30850)
 
-```markdown
-# Telegram
-小黑的炸鸡游戏屋
-```
+[# TG](#小黑的炸鸡游戏屋)
 
 #### 攻略
 
 <a href="攻略文档\致命解药.md">致命解药</a>
 
 ## 【SLG】
+
+### [隔壁的美艳人妻]
+
+#### 详情介绍
+
+原作:  The Wife Next Door
+
+作者:  雪山雞白郎 & SnowGBL
+
+```markdown
+# [玩法] → [可玩性]
+[3D] → [★5]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [v1.3.21](https://t.me/huangyou_A/57941)
+
+[# TG](#黄油派对|每日全天候营业)
 
 ### [最后的希望]
 
@@ -135,10 +107,7 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 #### [V1.0165](https://t.me/Zhzbzx/14751)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### V1.0196
 
@@ -180,10 +149,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### [ver0.25.9](https://t.me/Zhzbzx/15289)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -209,10 +175,7 @@ ACG便利贴(免费黄油)
 
 #### [V0.8.5](https://t.me/yuyeweimian/14339)
 
-```markdown
-# Telegram
-『雨夜凉亭』ACG频道
-```
+[# TG](#『雨夜凉亭』ACG频道)
 
 #### 攻略
 
@@ -240,10 +203,7 @@ ACG便利贴(免费黄油)
 
 #### [Ver0.4.5](https://t.me/Zhzbzx/14670)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -271,10 +231,7 @@ ACG便利贴(免费黄油)
 
 #### [V1.2.3](https://t.me/Zhzbzx/2511)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -304,10 +261,7 @@ ACG便利贴(免费黄油)
 
 #### [V2](https://t.me/Zhzbzx/9127)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -336,31 +290,19 @@ ACG便利贴(免费黄油)
 
 #### [V1.5.12](https://t.me/PerfectLife_Channel/11713)
 
-```markdown
-# Telegram
-Perfect Life CLUB
-```
+[# TG](#Perfect Life CLUB)
 
 #### [V1.5.10](https://t.me/PerfectLife_Channel/11296) (完结)
 
-```markdown
-# Telegram
-Perfect Life CLUB
-```
+[# TG](#Perfect Life CLUB)
 
 #### [Ver20240910](https://t.me/Zhzbzx/11202) (完结)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### [V1.3.2](https://t.me/Zhzbzx/9262)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -389,10 +331,7 @@ ACG便利贴(免费黄油)
 
 #### [V1.1.0](https://t.me/lifanhuangyouxi/7193)
 
-```markdown
-# Telegram
-里番 黄油聚集地
-```
+[# TG](#里番 黄油聚集地)
 
 #### V1.0.1
 
@@ -426,10 +365,7 @@ ACG便利贴(免费黄油)
 
 #### [ver25.03.15](https://t.me/Zhzbzx/15227)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -457,10 +393,7 @@ ACG便利贴(免费黄油)
 
 #### [Ver1.4.1](https://t.me/Zhzbzx/13957)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -486,10 +419,7 @@ ACG便利贴(免费黄油)
 
 #### [v2.3](https://t.me/Zhzbzx/774) (D+N)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -517,10 +447,7 @@ ACG便利贴(免费黄油)
 
 #### [Ver8.4](https://t.me/Zhzbzx/8738)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -547,17 +474,11 @@ ACG便利贴(免费黄油)
 
 #### [ver0.628](https://t.me/Zhzbzx/13168)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### [V0.515A](https://t.me/Zhzbzx/8262)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -582,10 +503,7 @@ ACG便利贴(免费黄油)
 
 #### [v0.17](https://t.me/yuyeweimian/12899)
 
-```markdown
-# Telegram
-『雨夜凉亭』
-```
+[# TG](#『雨夜凉亭』ACG频道)
 
 #### 攻略
 
@@ -613,17 +531,11 @@ ACG便利贴(免费黄油)
 
 #### [V60.0e](https://t.me/Zhzbzx/7749)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### [Ver60FF](https://t.me/Zhzbzx/8182)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -649,10 +561,7 @@ ACG便利贴(免费黄油)
 
 #### [V0.30](https://t.me/Zhzbzx/6658)
 
-```markdown
-# Telegram
-ACG便利贴(免费黄油)
-```
+[# TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -660,7 +569,98 @@ ACG便利贴(免费黄油)
 暂无
 ```
 
-# GameSource
+# 文件修改
+
+## 【[saveeditonline](https://www.saveeditonline.com)】
+
+```markdown
+# 上传(慢)
+1) UPLOAD FILE  →  Download xxx.xxx
+2) 拖动文件到网页  →  Download xxx.xxx
+```
+
+## 【[saveeditor](https://saveeditor.online)】
+
+```markdown
+# 上传(快)
+1) Upload  →  Download
+2) 拖动文件到网页  →  Download
+```
+
+## 【[save-editor](https://www.save-editor.com/tools)】
+
+```markdown
+# 上传(全面)
+
+-- RPG MAKER MZ SAVE EDITOR
+1) SELECT  SAVE EDITOR
+   SELECT  JSON EDITOR
+                        →  选择文件  →  RUN  →  EDIT & DOWNLOAD  →  DOWNLOAD
+2) SELECT  SAVE EDITOR
+   SELECT  JSON EDITOR
+                        →  [拖动文件]到[选择文件]界面  →  RUN  →  EDIT & DOWNLOAD  →  DOWNLOAD
+
+-- RPG MAKER MV GAME EDITOR
+1) 选择文件  →  RUN  →  ...
+2) [拖动文件]到[选择文件]界面  →  RUN  →  ...
+
+-- RPG MAKER MV SAVE EDITOR
+同上
+```
+
+# 游戏资源
+
+## 【Telegram】
+
+### [ACG便利贴(免费黄油)](https://t.me/Zhzbzx)
+
+```markdown
+# 解压密码
+暂无
+```
+
+### [里番 黄油聚集地](https://t.me/lifanhuangyouxi)
+
+```markdown
+# 解压密码
+暂无
+```
+
+### [小黑的炸鸡游戏屋](https://t.me/ElysiumButter)
+
+```markdown
+# 解压密码
+暂无
+```
+
+### [『雨夜凉亭』ACG频道](https://t.me/yuyeweimian)
+
+```markdown
+# 解压密码
+暂无
+```
+
+### [Perfect Life CLUB](https://t.me/PerfectLife_Channel)
+
+```markdown
+# 解压密码
+暂无
+```
+
+### [黄油派对|每日全天候营业](https://t.me/huangyou_A)
+
+```markdown
+# 解压密码
+@huangyou_A
+```
+
+### 百度贴吧
+
+```tex
+...
+```
+
+## 【资源地址】
 
 <a href="./Resources.md">Resources</a>
 
