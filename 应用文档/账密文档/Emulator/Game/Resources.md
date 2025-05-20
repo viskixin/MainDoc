@@ -65,6 +65,13 @@ Viski
 暂无
 ```
 
+## 【[H Game](https://hgamefree.info)】
+
+```markdown
+# 账密
+暂无
+```
+
 ## 【[任天堂](https://www.nintendo.com)】
 
 ```markdown

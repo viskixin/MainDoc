@@ -2,19 +2,134 @@
 
 ```markdown
 # 游戏风格
-RTS(Real-time Strategy)				即时策略
-FPS(First-person Shooter)			第一人称射击
-TPS(Third-person Shooter)			第三人称射击
+RTS(Real Time Strategy)				即时策略
+FPS(First Person Shooter)			第一人称射击
+TPS(Third Person Shooter)			第三人称射击
 STG(Shooting Game)					射击游戏
 FTG(Fighting Game)					格斗游戏
 ACT(Action Game)					动作游戏
 AVG(Adventure Game)					冒险游戏(也称 ADV)
-RPG(Role-playing Game)				角色扮演
+RPG(Role Playing Game)				角色扮演
+ARPG(Action Role Playing Game)		动作角色扮演
 SLG(Simulation Game)				模拟游戏
 QSP(Quest Soft Player)				互动叙事游戏
 
 # 推荐指数
 ★number
+```
+
+## 【Based on VAM】
+
+### [AI少女]
+
+#### 详情介绍2
+
+作品:  AI少女-璇玑公主
+
+原作:  [AI＊Shoujo/AI＊少女](https://store.steampowered.com/app/1250650/AIShoujoAI/)
+
+发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
+
+```markdown
+# [玩法] → [可玩性]
+[暂未探索-3D] → [暂未探索]
+# [CG] → [质量]
+[3D] → [暂未探索]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.2.3](https://t.me/Zhzbzx/2511)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 详情介绍1
+
+作品:  AI少女
+
+原作:  同上
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V](https://t.me/ElysiumButter/1185)  |  [TG](#小黑的炸鸡游戏屋)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [甜蜜选择2]
+
+#### 详情介绍2
+
+作品:  Honey Select 2:原欲璇玑公主
+
+原作:  [Honey Select 2 Libido DX](https://store.steampowered.com/app/1631080/HoneySelect2Libido_DX) | [ハニーセレクト2 リビドーDX](https://www.getchu.com/soft.phtml?id=1102442)
+
+发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
+
+```markdown
+# [玩法] → [可玩性]
+[暂未探索-3D] → [暂未探索]
+# [CG] → [质量]
+[3D] → [暂未探索]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.2.3](https://t.me/Zhzbzx/9127)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 详情介绍1
+
+作品:  HS2/甜心选择2
+
+原作:  同上
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V12](https://t.me/ElysiumButter/1969)  |  [TG](#小黑的炸鸡游戏屋)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [VAM]
+
+#### 详情介绍
+
+原作:  Virt A Mate
+
+发行:  [Meshed VR](https://www.patreon.com/meshedvr)
+
+```markdown
+# [玩法] → [可玩性]
+[暂未探索-3D] → [暂未探索]
+# [CG] → [质量]
+[3D] → [暂未探索]
+
+# 文件保存目录
+暂无
+```
+
+#### [ver](https://t.me/ElysiumButter/2243)  |  [TG](#小黑的炸鸡游戏屋)
+
+#### [ver1.95](https://noelbakersedu-my.sharepoint.com/personal/yytyxy4494_sg_edu_vn/_layouts/15/onedrive.aspx)  |  [hgamefree.info](https://hgamefree.info/adult-video-game/h-game/272656.html)
+
+#### 攻略
+
+```markdown
+暂无
 ```
 
 ## 【ACT】
@@ -31,7 +146,7 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # [玩法] → [可玩性]
-[3D] → [★5]
+[动态-3D] → [★5]
 
 # 截图目录
 %UserProfile%\AppData\Local\TheKillingAntidote\Screenshots
@@ -73,7 +188,7 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # [玩法] → [可玩性]
-[3D] → [★5]
+[动态-3D] → [★5]
 # [CG] → [质量]
 [3D] → [★4]
 
@@ -112,7 +227,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ```markdown
 # [玩法] → [可玩性]
-[2D] → [★4]
+[静态-3D] → [★4]
 # [CG] → [质量]
 [3D] → [★5]
 
@@ -137,7 +252,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ```markdown
 # [玩法] → [可玩性]
-[3D] → [★4]
+[动态-3D] → [★4]
 # [CG] → [质量]
 [3D] → [★3]
 
@@ -165,7 +280,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ```markdown
 # [玩法] → [可玩性]
-[3D] → [★3]
+[静态-3D] → [★3]
 # [CG] → [质量]
 [3D] → [★3]
 
@@ -181,25 +296,27 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 暂无
 ```
 
-### [莉莉的情欲迷宫]
+### [雪山别墅与三个妹子的做爱假期]
 
 #### 详情介绍
 
-原作:  [Lily’s Labyrinth of Lust](https://store.steampowered.com/app/2866440/Lilys_Labyrinth_of_Lust/)
+原作:  [Love Challenge](https://store.steampowered.com/app/2334130/)
 
-发行:  [Erommersion](https://www.patreon.com/erommersion/posts) | [Erommersion](https://store.steampowered.com/search/?publisher=Erommersion%20Studios)
+发行:  [Playmeow](https://store.steampowered.com/publisher/playmeow)
+
+作者:  [雪山雞白郎 (SnowGBL)](https://store.steampowered.com/curator/44790486)
 
 ```markdown
 # [玩法] → [可玩性]
-[3D] → [★2]
+[静态-3D] → [★2]
 # [CG] → [质量]
 [3D] → [★3]
 
 # 文件保存目录
-暂无
+.\LoveChallenge_Data
 ```
 
-#### [V0.8.5](https://t.me/yuyeweimian/14339)  |  [TG](#『雨夜凉亭』ACG频道)
+#### [V1.5.5](https://t.me/farrslgrpg/26977)  |  [TG](#Farr的黄油（游）仓库SLG.RPG.ADV.3D)
 
 #### 攻略
 
@@ -217,7 +334,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ```markdown
 # [玩法] → [可玩性]
-[2D] → [★2]
+[静态-3D] → [★3]
 # [CG] → [质量]
 [3D] → [★3]
 
@@ -233,25 +350,25 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 暂无
 ```
 
-### [AI少女-璇玑公主]
+### [莉莉的情欲迷宫]
 
 #### 详情介绍
 
-原作: [AI＊Shoujo/AI＊少女](https://store.steampowered.com/app/1250650/AIShoujoAI/)
+原作:  [Lily’s Labyrinth of Lust](https://store.steampowered.com/app/2866440/Lilys_Labyrinth_of_Lust/)
 
-发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
+发行:  [Erommersion](https://www.patreon.com/erommersion/posts) | [Erommersion](https://store.steampowered.com/search/?publisher=Erommersion%20Studios)
 
 ```markdown
 # [玩法] → [可玩性]
-[暂未探索] → [暂未探索]
+[动态-3D] → [★2]
 # [CG] → [质量]
-[3D] → [暂未探索]
+[3D] → [★3]
 
 # 文件保存目录
 暂无
 ```
 
-#### [V1.2.3](https://t.me/Zhzbzx/2511)  |  [TG](#ACG便利贴(免费黄油))
+#### [V0.8.5](https://t.me/yuyeweimian/14339)  |  [TG](#『雨夜凉亭』ACG频道)
 
 #### 攻略
 
@@ -259,27 +376,25 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 暂无
 ```
 
-### [甜蜜选择2-璇玑公主]
+### [神秘别墅]
 
 #### 详情介绍
 
-译名: HoneySelect 2:原欲璇玑公主
+原作:  The Mystery Villa
 
-原作: [Honey Select 2 Libido DX](https://store.steampowered.com/app/1631080/HoneySelect2Libido_DX) | [ハニーセレクト2 リビドーDX](https://www.getchu.com/soft.phtml?id=1102442)
-
-发行:  ILLUSION
+作者:  [DX_Games](https://www.patreon.com/DX_Games)
 
 ```markdown
 # [玩法] → [可玩性]
-[暂未探索] → [暂未探索]
+[静态-3D] → [★1]
 # [CG] → [质量]
-[3D] → [暂未探索]
+[3D] → [★4]
 
 # 文件保存目录
-暂无
+.\game\saves
 ```
 
-#### [V2](https://t.me/Zhzbzx/9127)  |  [TG](#ACG便利贴(免费黄油))
+#### [Ep.8](https://t.me/perfectlife_official/10888)  |  [TG](#Perfect Life CLUB)
 
 #### 攻略
 
@@ -461,7 +576,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ```markdown
 # [玩法] → [可玩性]
-[2D] → [★2]
+[静态-3D] → [★2]
 # [CG] → [质量]
 [3D] → [★3]
 
@@ -470,6 +585,34 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 ```
 
 #### [ver8.4](https://t.me/Zhzbzx/8738)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [永恒世界]
+
+#### 详情介绍
+
+原作:  Eternum
+
+作者:  [Caribdis](https://www.patreon.com/onceinalifetime)
+
+发行:  [Eternum](https://caribdis.itch.io/eternum)
+
+```markdown
+# [玩法] → [可玩性]
+[静态-3D] → [★2]
+# [CG] → [质量]
+[3D] → [★4]
+
+# 文件保存目录
+%UserProfile%\AppData\Roaming\RenPy\Eternum-1610153667
+```
+
+#### [ver0.8.5](https://t.me/LspGame/995)  |  [TG](#黄油分享)
 
 #### 攻略
 
