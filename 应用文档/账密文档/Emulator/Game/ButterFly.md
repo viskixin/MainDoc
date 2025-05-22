@@ -32,9 +32,9 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # [玩法] → [可玩性]
-[暂未探索-3D] → [暂未探索]
+[动态-3D] → [★5]
 # [CG] → [质量]
-[3D] → [暂未探索]
+[3D] → [★5]
 
 # 文件保存目录
 暂无
@@ -74,9 +74,9 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # [玩法] → [可玩性]
-[暂未探索-3D] → [暂未探索]
+[动态-3D] → [★5]
 # [CG] → [质量]
-[3D] → [暂未探索]
+[3D] → [★5]
 
 # 文件保存目录
 暂无
@@ -114,15 +114,28 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # [玩法] → [可玩性]
-[暂未探索-3D] → [暂未探索]
+[动态-3D] → [★5]
 # [CG] → [质量]
-[3D] → [暂未探索]
+[3D] → [★5]
 
 # 文件保存目录
-暂无
+-- 包文件
+.\AddonPackages
+-- 本地音效
+.\Custom\Sounds
+-- 保存的场景
+.\Saves\scene
 ```
 
-#### [ver](https://t.me/ElysiumButter/2243)  |  [TG](#小黑的炸鸡游戏屋)
+#### [ver1.20.77.9](https://t.me/ElysiumButter/2243)  |  [TG](#小黑的炸鸡游戏屋)
+
+```markdown
+# (中文启动)激活 → [机器码]的[后面]加上[Your wife's vagina is so cool]再进行[MD5加密]
+-- 如下
+C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
+-- (32位)MD5加密后
+42B0513BD5A01C158880603593EA89AE
+```
 
 #### [ver1.95](https://noelbakersedu-my.sharepoint.com/personal/yytyxy4494_sg_edu_vn/_layouts/15/onedrive.aspx)  |  [hgamefree.info](https://hgamefree.info/adult-video-game/h-game/272656.html)
 
@@ -768,56 +781,57 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 ### [ACG便利贴(免费黄油)](https://t.me/Zhzbzx)
 
 ```markdown
-# 解压密码
-暂无
+# 通用解压密码
+好好学习少点涩涩
+好好学习天天不涩
 ```
 
 ### [里番 黄油聚集地](https://t.me/lifanhuangyouxi)
 
 ```markdown
-# 解压密码
+# 通用解压密码
 暂无
 ```
 
 ### [小黑的炸鸡游戏屋](https://t.me/ElysiumButter)
 
 ```markdown
-# 解压密码
-暂无
+# 通用解压密码
+半夏
 ```
 
 ### [Farr的黄油（游）仓库SLG.RPG.ADV.3D](https://t.me/farrslgrpg)
 
 ```markdown
-# 解压密码
+# 通用解压密码
 t.me/farrslgrpg
 ```
 
 ### [『雨夜凉亭』ACG频道](https://t.me/yuyeweimian)
 
 ```markdown
-# 解压密码
+# 通用解压密码
 暂无
 ```
 
 ### [Perfect Life CLUB](https://t.me/PerfectLife_Channel)
 
 ```markdown
-# 解压密码
+# 通用解压密码
 暂无
 ```
 
 ### [黄油派对|每日全天候营业](https://t.me/huangyou_A)
 
 ```markdown
-# 解压密码
+# 通用解压密码
 @huangyou_A
 ```
 
 ### [黄油分享](https://t.me/LspGame)
 
 ```markdown
-# 解压密码
+# 通用解压密码
 暂无
 ```
 
