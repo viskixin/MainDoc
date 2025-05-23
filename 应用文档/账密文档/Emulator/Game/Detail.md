@@ -1,4 +1,4 @@
-# Butter
+# Common
 
 ```markdown
 # 游戏风格
@@ -17,6 +17,83 @@ QSP(Quest Soft Player)				互动叙事游戏
 # 推荐指数
 ★number
 ```
+
+## 【ACT】
+
+### [致命解药]
+
+#### 详情介绍
+
+原作:  [The Killing Antidote](https://store.steampowered.com/app/2254890/)
+
+作者:  Johnny & Naux
+
+发行:  [MetalStar Studio](https://store.steampowered.com/search/?publisher=MetalStar%20Studio)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 截图目录
+%UserProfile%\AppData\Local\TheKillingAntidote\Screenshots
+# 文件保存目录
+%UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
+```
+
+#### [V0.5.3.1](https://steamzg.com/48698)
+
+```markdown
+# 夸克网盘
+文件/Game/致命解药 v0.5.3.1
+# 阿里云盘
+全部文件/Game/致命解药 v0.5.3.1
+```
+
+#### [V0.5.2.3](https://www.ns211.com/15224.html)
+
+```markdown
+# 夸克网盘
+文件/Game/致命解药 v0.5.2.3
+```
+
+#### [V0.5.2.2](https://t.me/ElysiumButter/30850)  |  [TG](#小黑的炸鸡游戏屋)
+
+#### 攻略
+
+<a href="攻略文档\致命解药.md">致命解药</a>
+
+## 【SLG】
+
+### [隔离区：最后的检查]
+
+#### 详情介绍
+
+原作:  [Quarantine Zone: The Last Check](https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/)
+
+发行:  [Brigada Games](https://store.steampowered.com/search/?publisher=Brigada%20Games)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### ver0.8
+
+```markdown
+# Steam
+测试免费下载
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+# Butter
 
 ## 【Based on VAM】
 
@@ -144,50 +221,6 @@ C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
 ```markdown
 暂无
 ```
-
-## 【ACT】
-
-### [致命解药]
-
-#### 详情介绍
-
-原作:  [The Killing Antidote](https://store.steampowered.com/app/2254890/)
-
-作者:  Johnny & Naux
-
-发行:  [MetalStar Studio](https://store.steampowered.com/search/?publisher=MetalStar%20Studio)
-
-```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★5]
-
-# 截图目录
-%UserProfile%\AppData\Local\TheKillingAntidote\Screenshots
-# 文件保存目录
-%UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
-```
-
-#### [V0.5.3.1](https://steamzg.com/48698)
-
-```markdown
-# 夸克网盘
-文件/Game/致命解药 v0.5.3.1
-# 阿里云盘
-全部文件/Game/致命解药 v0.5.3.1
-```
-
-#### [V0.5.2.3](https://www.ns211.com/15224.html)
-
-```markdown
-# 夸克网盘
-文件/Game/致命解药 v0.5.2.3
-```
-
-#### [V0.5.2.2](https://t.me/ElysiumButter/30850)  |  [TG](#小黑的炸鸡游戏屋)
-
-#### 攻略
-
-<a href="攻略文档\致命解药.md">致命解药</a>
 
 ## 【SLG】
 

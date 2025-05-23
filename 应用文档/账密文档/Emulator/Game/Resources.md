@@ -1,4 +1,4 @@
-# 游戏包(Normal)
+# Common
 
 ## 【[小叽资源](https://steamzg.com)】
 
@@ -65,13 +65,6 @@ Viski
 暂无
 ```
 
-## 【[H Game](https://hgamefree.info)】
-
-```markdown
-# 账密
-暂无
-```
-
 ## 【[任天堂](https://www.nintendo.com)】
 
 ```markdown
@@ -79,7 +72,7 @@ Viski
 暂无
 ```
 
-# 游戏包(Butter)
+# Butter
 
 ## 【[维咔](https://www.vikacg.com)】
 
@@ -104,6 +97,13 @@ casualway
 78acg.com
 78gamego
 http://78gamego.com
+```
+
+## 【[H Game](https://hgamefree.info)】
+
+```markdown
+# 账密
+暂无
 ```
 
 # Mods
