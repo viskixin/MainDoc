@@ -65,6 +65,13 @@ Viski
 暂无
 ```
 
+## 【[小妖怪分享](https://www.xyg688.com)】
+
+```markdown
+# 账密
+暂无
+```
+
 ## 【[任天堂](https://www.nintendo.com)】
 
 ```markdown

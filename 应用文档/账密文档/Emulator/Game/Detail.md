@@ -40,19 +40,31 @@ QSP(Quest Soft Player)				互动叙事游戏
 %UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
 ```
 
-#### [V0.5.3.1](https://steamzg.com/48698)
+#### [V0.5.3.2a](https://t.me/baoshanyouxi1/1150)  |  [夸克网盘](https://pan.quark.cn/s/d78ed3bf4f99)
 
 ```markdown
-# 夸克网盘
-文件/Game/致命解药 v0.5.3.1
-# 阿里云盘
-全部文件/Game/致命解药 v0.5.3.1
+# 夸克网盘(鱼于鱼)
+文件/Game/致命解药 v0.5.3.2a 全MOD
 ```
 
-#### [V0.5.2.3](https://www.ns211.com/15224.html)
+#### [V0.5.3.2a](https://steamzg.com/48698)  |  [阿里云盘](https://www.alipan.com/s/LCdnuX7GtuE?pwd=6666)
 
 ```markdown
-# 夸克网盘
+# 阿里云盘
+全部文件/Game/致命解药 v0.5.3.2a
+```
+
+#### [V0.5.3.1](https://t.me/c/1620029174/19447)  |  [TG](#『雨夜凉亭』ACG频道)
+
+```markdown
+# 夸克网盘(鱼于鱼)
+文件/Game/致命解药 v0.5.3.1
+```
+
+#### [V0.5.2.3](https://www.ns211.com/15224.html)  |  [夸克网盘](https://pan.quark.cn/s/84cbece63d38)
+
+```markdown
+# 夸克网盘(鱼于鱼)
 文件/Game/致命解药 v0.5.2.3
 ```
 
@@ -61,6 +73,69 @@ QSP(Quest Soft Player)				互动叙事游戏
 #### 攻略
 
 <a href="攻略文档\致命解药.md">致命解药</a>
+
+### [深渊学校]
+
+#### 详情介绍
+
+原作:  [Abyss School](https://store.steampowered.com/app/2473710/)
+
+发行:  [eTIRUe](https://store.steampowered.com/developer/eTIRUe)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.6.9](https://steamzg.com/42100/)  |  [阿里云盘](https://www.alipan.com/s/dqnkNXNyZh6?pwd=6666)
+
+```markdown
+# 夸克网盘(鱼于鱼)
+文件/Game/深渊学校 v1.6.9
+```
+
+#### [V1.6.6](https://t.me/ciyuanbiGG/46251)  |  [百度网盘](https://pan.baidu.com/s/1q87fxo3wdfp2WVLlVNo9PQ?pwd=1set)
+
+```markdown
+# 夸克网盘(鱼于鱼)
+文件/Game/深渊学校 v1.6.6
+```
+
+### [鸣潮] (需联网)
+
+#### 详情介绍
+
+原作:  [Wuthering Waves](https://store.steampowered.com/app/3513350/Wuthering_Waves/)
+
+发行:  [KURO GAMES](https://store.steampowered.com/search/?developer=KURO%20GAMES)
+
+官网:  [Official](https://wutheringwaves.kurogames.com/)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 截图目录
+.\Client\Saved\ScreenShot
+
+# 账密
+linhanxavi@gmail.com
+what.0414
+# 特征码
+801444739
+# 名字
+Viski
+```
+
+#### [V2.3](https://t.me/huangyou_A/62755)  |  [TG](#黄油派对|每日全天候营业)
+
+```markdown
+# 注意
+只是版本魔改绅士整合包，需要在官网下载游戏本体配合整合包使用
+```
 
 ## 【SLG】
 
@@ -94,133 +169,6 @@ QSP(Quest Soft Player)				互动叙事游戏
 ```
 
 # Butter
-
-## 【Based on VAM】
-
-### [AI少女]
-
-#### 详情介绍2
-
-作品:  AI少女-璇玑公主
-
-原作:  [AI＊Shoujo/AI＊少女](https://store.steampowered.com/app/1250650/AIShoujoAI/)
-
-发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
-
-```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★5]
-# [CG] → [质量]
-[3D] → [★5]
-
-# 文件保存目录
-暂无
-```
-
-#### [V1.2.3](https://t.me/Zhzbzx/2511)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 详情介绍1
-
-作品:  AI少女
-
-原作:  同上
-
-发行:  同上
-
-```markdown
-同上
-```
-
-#### [V](https://t.me/ElysiumButter/1185)  |  [TG](#小黑的炸鸡游戏屋)
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [甜蜜选择2]
-
-#### 详情介绍2
-
-作品:  Honey Select 2:原欲璇玑公主
-
-原作:  [Honey Select 2 Libido DX](https://store.steampowered.com/app/1631080/HoneySelect2Libido_DX) | [ハニーセレクト2 リビドーDX](https://www.getchu.com/soft.phtml?id=1102442)
-
-发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
-
-```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★5]
-# [CG] → [质量]
-[3D] → [★5]
-
-# 文件保存目录
-暂无
-```
-
-#### [V1.2.3](https://t.me/Zhzbzx/9127)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 详情介绍1
-
-作品:  HS2/甜心选择2
-
-原作:  同上
-
-发行:  同上
-
-```markdown
-同上
-```
-
-#### [V12](https://t.me/ElysiumButter/1969)  |  [TG](#小黑的炸鸡游戏屋)
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [VAM]
-
-#### 详情介绍
-
-原作:  Virt A Mate
-
-发行:  [Meshed VR](https://www.patreon.com/meshedvr)
-
-```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★5]
-# [CG] → [质量]
-[3D] → [★5]
-
-# 文件保存目录
--- 包文件
-.\AddonPackages
--- 本地音效
-.\Custom\Sounds
--- 保存的场景
-.\Saves\scene
-```
-
-#### [ver1.20.77.9](https://t.me/ElysiumButter/2243)  |  [TG](#小黑的炸鸡游戏屋)
-
-```markdown
-# (中文启动)激活 → [机器码]的[后面]加上[Your wife's vagina is so cool]再进行[MD5加密]
--- 如下
-C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
--- (32位)MD5加密后
-42B0513BD5A01C158880603593EA89AE
-```
-
-#### [ver1.95](https://noelbakersedu-my.sharepoint.com/personal/yytyxy4494_sg_edu_vn/_layouts/15/onedrive.aspx)  |  [hgamefree.info](https://hgamefree.info/adult-video-game/h-game/272656.html)
-
-#### 攻略
-
-```markdown
-暂无
-```
 
 ## 【SLG】
 
@@ -369,6 +317,26 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 ```markdown
 暂无
 ```
+
+### [跨界]
+
+#### 详情介绍
+
+原作:  CrossRealms
+
+发行:  [DuskDuck](https://www.patreon.com/DuskDuck)
+
+```markdown
+# [玩法] → [可玩性]
+[静态-3D] → [★2]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [ver0.3.0](https://t.me/Zhzbzx/16099)  |  [TG](#ACG便利贴(免费黄油))
 
 ### [欧派奥德赛]
 
@@ -761,6 +729,133 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 ```
 
 #### [V0.30](https://t.me/Zhzbzx/6658)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+## 【Based on VAM】
+
+### [AI少女]
+
+#### 详情介绍2
+
+作品:  AI少女-璇玑公主
+
+原作:  [AI＊Shoujo/AI＊少女](https://store.steampowered.com/app/1250650/AIShoujoAI/)
+
+发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.2.3](https://t.me/Zhzbzx/2511)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 详情介绍1
+
+作品:  AI少女
+
+原作:  同上
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V](https://t.me/ElysiumButter/1185)  |  [TG](#小黑的炸鸡游戏屋)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [甜蜜选择2]
+
+#### 详情介绍2
+
+作品:  Honey Select 2:原欲璇玑公主
+
+原作:  [Honey Select 2 Libido DX](https://store.steampowered.com/app/1631080/HoneySelect2Libido_DX) | [ハニーセレクト2 リビドーDX](https://www.getchu.com/soft.phtml?id=1102442)
+
+发行:  [ILLUSION](https://store.steampowered.com/search/?publisher=ILLUSION)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.2.3](https://t.me/Zhzbzx/9127)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 详情介绍1
+
+作品:  HS2/甜心选择2
+
+原作:  同上
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V12](https://t.me/ElysiumButter/1969)  |  [TG](#小黑的炸鸡游戏屋)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [VAM]
+
+#### 详情介绍
+
+原作:  Virt A Mate
+
+发行:  [Meshed VR](https://www.patreon.com/meshedvr)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+-- 包文件
+.\AddonPackages
+-- 本地音效
+.\Custom\Sounds
+-- 保存的场景
+.\Saves\scene
+```
+
+#### [ver1.20.77.9](https://t.me/ElysiumButter/2243)  |  [TG](#小黑的炸鸡游戏屋)
+
+```markdown
+# (中文启动)激活 → [机器码]的[后面]加上[Your wife's vagina is so cool]再进行[MD5加密]
+-- 如下
+C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
+-- (32位)MD5加密后
+42B0513BD5A01C158880603593EA89AE
+```
+
+#### [ver1.95](https://noelbakersedu-my.sharepoint.com/personal/yytyxy4494_sg_edu_vn/_layouts/15/onedrive.aspx)  |  [hgamefree.info](https://hgamefree.info/adult-video-game/h-game/272656.html)
 
 #### 攻略
 
