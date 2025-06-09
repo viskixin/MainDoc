@@ -72,6 +72,16 @@ Viski
 暂无
 ```
 
+## 【[二狗狗ACG](https://www.2gouacg.com)】
+
+```markdown
+# 发布地址
+https://www.twodog.wang
+
+# 账密
+暂无
+```
+
 ## 【[任天堂](https://www.nintendo.com)】
 
 ```markdown
@@ -95,9 +105,10 @@ casualway
 
 ```markdown
 # 账密
-同上
+1770282632@qq.com
+what.0414
 # 用户名
-同上
+casualway
 
 # 解压密码
 78acgn.com
@@ -140,3 +151,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3421366881
 -- 订阅后下载(切换下载地区之后重试)
 如果不能下载 → 点击 Steam → 设置 → 下载 → 下载地区[中国-香港]
 ```
+
+# [游戏详情](./Detail.md)
+

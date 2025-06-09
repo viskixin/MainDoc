@@ -2,17 +2,17 @@
 
 ```markdown
 # 游戏风格
-RTS(Real Time Strategy)				即时策略
-FPS(First Person Shooter)			第一人称射击
-TPS(Third Person Shooter)			第三人称射击
-STG(Shooting Game)					射击游戏
-FTG(Fighting Game)					格斗游戏
 ACT(Action Game)					动作游戏
 AVG(Adventure Game)					冒险游戏(也称 ADV)
-RPG(Role Playing Game)				角色扮演
 ARPG(Action Role Playing Game)		动作角色扮演
-SLG(Simulation Game)				模拟游戏
+FPS(First Person Shooter)			第一人称射击
+FTG(Fighting Game)					格斗游戏
 QSP(Quest Soft Player)				互动叙事游戏
+RPG(Role Playing Game)				角色扮演
+RTS(Real Time Strategy)				即时策略
+SLG(Simulation Game)				模拟游戏
+STG(Shooting Game)					射击游戏
+TPS(Third Person Shooter)			第三人称射击
 
 # 推荐指数
 ★number
@@ -20,9 +20,83 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ## 【ACT】
 
+### [鸣潮] (需联网)
+
+#### # 详情介绍
+
+原作:  [Wuthering Waves](https://store.steampowered.com/app/3513350/Wuthering_Waves/)
+
+发行:  [KURO GAMES](https://store.steampowered.com/search/?developer=KURO%20GAMES)
+
+官网:  [Official](https://wutheringwaves.kurogames.com/)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 截图目录
+.\Client\Saved\ScreenShot
+
+# 账密
+linhanxavi@gmail.com
+what.0414
+# 特征码
+801444739
+# 名字
+Viski
+```
+
+#### [V2.3](https://t.me/huangyou_A/62755)  |  [TG](#黄油派对|每日全天候营业)
+
+```markdown
+# 注意
+只是版本魔改绅士整合包，需要在官网下载游戏本体配合整合包使用
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+## 【SLG】
+
+### [隔离区：最后的检查]
+
+#### # 详情介绍
+
+原作:  [Quarantine Zone: The Last Check](https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/)
+
+发行:  [Brigada Games](https://store.steampowered.com/search/?publisher=Brigada%20Games)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### ver0.8
+
+```markdown
+# Steam
+测试免费下载
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+# SoftEroticism
+
+## 【ACT】
+
 ### [致命解药]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [The Killing Antidote](https://store.steampowered.com/app/2254890/)
 
@@ -74,9 +148,40 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 <a href="攻略文档\致命解药.md">致命解药</a>
 
+## 【AVG】
+
+### [毁了的护士]
+
+#### # 详情介绍
+
+原作:  [Ruined Nurse](https://store.steampowered.com/app/2785280/)
+
+发行:  [eTIRUe](https://store.steampowered.com/developer/eTIRUe)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\RuinedNurse\Saved
+```
+
+#### [V1.4.2](https://steamzg.com/50674/)  |  [阿里云盘](https://www.alipan.com/s/1pKgZr4oSX8?pwd=6666)
+
+```markdown
+# 夸克网盘(鱼于鱼)
+文件/Game/毁了的护士 v1.4.2
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ### [深渊学校]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [Abyss School](https://store.steampowered.com/app/2473710/)
 
@@ -84,10 +189,10 @@ QSP(Quest Soft Player)				互动叙事游戏
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★4]
 
 # 文件保存目录
-暂无
+%UserProfile%\AppData\Local\AbyssSchool\Saved
 ```
 
 #### [V1.6.9](https://steamzg.com/42100/)  |  [阿里云盘](https://www.alipan.com/s/dqnkNXNyZh6?pwd=6666)
@@ -104,63 +209,116 @@ QSP(Quest Soft Player)				互动叙事游戏
 文件/Game/深渊学校 v1.6.6
 ```
 
-### [鸣潮] (需联网)
+#### 攻略
 
-#### 详情介绍
+```markdown
+暂无
+```
 
-原作:  [Wuthering Waves](https://store.steampowered.com/app/3513350/Wuthering_Waves/)
+### [吸血鬼大厦]
 
-发行:  [KURO GAMES](https://store.steampowered.com/search/?developer=KURO%20GAMES)
+#### # 详情介绍
 
-官网:  [Official](https://wutheringwaves.kurogames.com/)
+别名:  吸血鬼宅邸
+
+原作:  [Vampire Mansion](https://store.steampowered.com/app/2280520/)
+
+发行:  [eTIRUe](https://store.steampowered.com/developer/eTIRUe)
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★待定]
 
-# 截图目录
-.\Client\Saved\ScreenShot
-
-# 账密
-linhanxavi@gmail.com
-what.0414
-# 特征码
-801444739
-# 名字
-Viski
+# 文件保存目录
+%UserProfile%\AppData\Local\VampireMansion\Saved
 ```
 
-#### [V2.3](https://t.me/huangyou_A/62755)  |  [TG](#黄油派对|每日全天候营业)
+#### [V1.5.3](https://steamzg.com/43938/)  |  [阿里云盘](https://www.alipan.com/s/f5d5jDwMPqN?pwd=6666)
 
 ```markdown
-# 注意
-只是版本魔改绅士整合包，需要在官网下载游戏本体配合整合包使用
+# 夸克网盘(鱼于鱼)
+文件/Game/吸血鬼大厦 v1.5.3
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [黑暗海妖]
+
+#### # 详情介绍
+
+原作:  [Dark Siren](https://store.steampowered.com/app/1575450/)
+
+发行:  [eTIRUe](https://store.steampowered.com/developer/eTIRUe)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\DarkSiren\Saved
+```
+
+#### [V1.32.2](https://steamzg.com/49924/)  |  [阿里云盘](https://www.alipan.com/s/QJnDppVGrNu?pwd=6666)
+
+```markdown
+# 夸克网盘(鱼于鱼)
+文件/Game/黑暗海妖 v1.32.2
+```
+
+#### 攻略
+
+```markdown
+暂无
 ```
 
 ## 【SLG】
 
-### [隔离区：最后的检查]
+### [罪恶尖塔]
 
-#### 详情介绍
+#### # 详情介绍
 
-原作:  [Quarantine Zone: The Last Check](https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/)
+原作:  [Sin Spire](https://store.steampowered.com/app/3221770/Sin_Spire/)
 
-发行:  [Brigada Games](https://store.steampowered.com/search/?publisher=Brigada%20Games)
+发行:  [Krasue Games](https://store.steampowered.com/search/?developer=Krasue%20Games)
 
 ```markdown
 # [玩法] → [可玩性]
 [动态-3D] → [★3]
 
 # 文件保存目录
+%UserProfile%\AppData\Local\SinSpire\Saved
+```
+
+#### [V0.0.5](https://www.2gouacg.com/%e3%80%903d-act-%e4%b8%ad%e6%96%87-%e6%81%90%e6%80%96%e3%80%91%e7%bd%aa%e6%81%b6%e5%b0%96%e5%a1%94-sin-spire-ver0-0-5-%e5%ae%98%e6%96%b9%e4%b8%ad%e6%96%87%e7%89%88-%e7%99%be%e5%ba%a6uc-890m/)  |  [百度网盘](https://pan.baidu.com/s/1s9xs0lbPPe1cwBqrZeoTOw?pwd=xwmh&unzip=twodog)
+
+#### 攻略
+
+```markdown
+# 百度网盘(weskix)
+全部文件/Game/罪恶尖塔 v0.0.5
+```
+
+### [家庭派对]
+
+#### # 详情介绍
+
+原作:  [House Party](https://store.steampowered.com/app/611790/House_Party/)
+
+发行:  [Eek! Games](https://store.steampowered.com/developer/eekgames)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
 暂无
 ```
 
-#### ver0.8
-
-```markdown
-# Steam
-测试免费下载
-```
+#### [V1.4.0](https://t.me/huangyou_A/48774)  |  [TG](#黄油派对|每日全天候营业)
 
 #### 攻略
 
@@ -170,11 +328,435 @@ Viski
 
 # Butter
 
+## 【AVG】
+
+### [美少女万华镜]
+
+#### # 详情介绍
+
+原作:  [美少女万华镜-理与迷宮的少女](https://store.steampowered.com/app/1310990/)
+
+作者:  [ωstar](https://store.steampowered.com/developer/seikei_production)
+
+发行:  [Seikei Production](https://store.steampowered.com/publisher/seikei_production)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★待定]
+# [CG] → [质量]
+[2D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [合集1](https://t.me/Zhzbzx/9238)  |  [TG](#黄油中心)
+
+#### [合集2](https://t.me/c/1819412809/2215)  |  [TG](#陌上花开轻烟阁)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+## 【RPG】
+
+### [重时:余火再燃]
+
+#### # 详情介绍2
+
+原作:  余火再燃-天彩乱
+
+作者:  [boosty](https://boosty.to/sweetsworkshopgames)
+
+发行:  [引力圈](https://app.unifans.io/c/sweetworkshop)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+.\www\save
+```
+
+#### [V2025.05.15](https://t.me/huangyou_A/58729)  |  [TG](#黄油派对|每日全天候营业)
+
+#### # 详情介绍1
+
+原作:  余火再燃 鸿图琦
+
+发行:  [甜食工坊](https://app.unifans.io/c/sweetworkshop)
+
+```markdown
+同上
+```
+
+#### [ver25.03.15](https://t.me/Zhzbzx/15227)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [我的幸福人生]
+
+#### # 详情介绍
+
+原作:  My Happy Life
+
+发行:  [BlueFish](https://www.patreon.com/BlueFishGames)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.5](https://t.me/huangyou_A/55760)  |  [TG](#黄油派对|每日全天候营业)
+
+#### [ver1.4.1](https://t.me/LspGame/990)  |  [TG](#黄油分享)
+
+#### [ver1.4](https://t.me/Zhzbzx/13957)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [爱巢]
+
+#### # 详情介绍
+
+作者:  SUO速
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[2D+] → [★3]
+
+# 文件保存目录
+.\www\save
+```
+
+#### [合集](https://t.me/Zhzbzx/11099)  |  [TG](#ACG便利贴(免费黄油))
+
+#### [V2.3 (D+N)](https://t.me/Zhzbzx/774)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [颠覆]
+
+#### # 详情介绍
+
+原作:  SUBVERSE
+
+发行:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
+
+```markdown
+# [玩法] → [可玩性]
+[静态-3D] → [★2]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\Subverse\Saved\SaveGames
+```
+
+#### [ver8.4](https://t.me/Zhzbzx/8738)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [永恒世界]
+
+#### # 详情介绍
+
+原作:  Eternum
+
+作者:  [Caribdis](https://www.patreon.com/onceinalifetime)
+
+发行:  [Eternum](https://caribdis.itch.io/eternum)
+
+```markdown
+# [玩法] → [可玩性]
+[静态-3D] → [★2]
+# [CG] → [质量]
+[3D] → [★4]
+
+# 文件保存目录
+%UserProfile%\AppData\Roaming\RenPy\Eternum-1610153667
+```
+
+#### [ver0.8.5](https://t.me/LspGame/995)  |  [TG](#黄油分享)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [绯月仙行录]
+
+#### # 详情介绍
+
+作者:  [蓝月虫](https://www.patreon.com/LanYC)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★2]
+# [CG] → [质量]
+[2D] → [★2]
+
+# 文件保存目录
+.\save
+.\data
+```
+
+#### [ver0.628](https://t.me/Zhzbzx/13168)  |  [TG](#ACG便利贴(免费黄油))
+
+#### [V0.515A](https://t.me/Zhzbzx/8262)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+<a href="攻略文档\绯月修仙录.md">绯月修仙录</a>
+
+### [合欢宗女修传]
+
+#### # 详情介绍
+
+作者:  [月亮龙](https://www.patreon.com/yuelianglong)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★1]
+# [CG] → [质量]
+[2D] → [★1]
+
+# 文件保存目录
+.\save
+.\data
+```
+
+#### [V0.17](https://t.me/yuyeweimian/12899)  |  [TG](#『雨夜凉亭』ACG频道)
+
+#### 攻略
+
+<a href="攻略文档\合欢宗女修传.md">合欢宗女修传</a>
+
 ## 【SLG】
+
+### [性趣探测器]
+
+#### # 详情介绍
+
+原作:  [Fetish Locator](https://store.steampowered.com/app/1360980/Fetish_Locator_Week_One/)
+
+发行:  [ViNovella Games](https://store.steampowered.com/developer/ViNovellaGames)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [合集](https://t.me/Zhzbzx/12998)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [半老徐娘]
+
+#### # 详情介绍2
+
+原作:  [MILFs of Sunville - Season 2](https://store.steampowered.com/app/2294730/MILFs_of_Sunville__Season_2/)
+
+发行:  [L7team](https://store.steampowered.com/publisher/L7team)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [V93](https://t.me/c/1678540823/12775)  |  [TG](#黄油中心)
+
+#### # 详情介绍1
+
+原作:  [MILFs of Sunville - Season 1](https://store.steampowered.com/app/1794470/MILFs_of_Sunville__Season_1/)
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V10](https://t.me/c/1678540823/12691)  |  [TG](#黄油中心)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [新生也疯狂]
+
+#### # 详情介绍
+
+原作:  [FreshWomen](https://store.steampowered.com/app/1350650/1/)
+
+发行:  [OppaiMan](https://store.steampowered.com/publisher/Oppai-Man)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★4]
+
+# 文件保存目录
+暂无
+```
+
+#### [合集](https://t.me/Zhzbzx/15928)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [欲望回声]
+
+#### # 详情介绍3
+
+原作:  [Lust Theory Season 3](https://store.steampowered.com/app/2749380/Lust_Theory_Season_3/)
+
+发行:  [Inceton Games](https://store.steampowered.com/curator/40147129)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★4]
+
+# 文件保存目录
+暂无
+```
+
+#### [V0.6.0](https://t.me/huangyou_A/42777)  |  [TG](#黄油派对|每日全天候营业)
+
+#### # 详情介绍2
+
+原作:  [Lust Theory Season 2](https://store.steampowered.com/app/1754870/Lust_Theory_Season_2/)
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V待定](https://t.me/perfectlife_official/1790)  |  [TG](#Perfect Life CLUB)
+
+#### # 详情介绍1
+
+原作:  [Lust Theory - Season 1](https://store.steampowered.com/app/1607130/Lust_Theory__Season_1/)
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V2.5.4](https://t.me/c/1620029174/9955)  |  [TG](#『雨夜凉亭』ACG频道)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [我的大学生活]
+
+#### # 详情介绍
+
+原作:  [Being a DIK - Season 3](https://store.steampowered.com/app/1807120/Being_a_DIK__Season_3/)
+
+发行:  [Dr PinkCake](https://store.steampowered.com/search/?developer=Dr%20PinkCake)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★4]
+
+# 文件保存目录
+暂无
+```
+
+#### [V0.11.1](https://t.me/c/1678540823/14736)  |  [TG](#黄油中心)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [堕落玩偶]
+
+#### # 详情介绍
+
+原作:  [Operation Lovecraft: Fallen Doll](https://store.steampowered.com/app/1685960/)
+
+发行:  [Project Helius](https://store.steampowered.com/search/?developer=Project%20Helius)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [V0.4.9](https://t.me/huangyou_A/2987)  |  [TG](#黄油派对|每日全天候营业)
+
+#### 攻略
+
+```markdown
+暂无
+```
 
 ### [最后的希望]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [Last Hope](https://store.steampowered.com/app/2650630/)
 
@@ -213,7 +795,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [特工17]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  Agent17
 
@@ -238,7 +820,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [极品采花郎]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [極品采花郎](https://store.steampowered.com/app/2897760/)
 
@@ -264,13 +846,13 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [隔壁的美艳人妻]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [The Wife Next Door](https://store.steampowered.com/app/2710480/)
 
-发行:  [Playmeow](https://store.steampowered.com/publisher/playmeow)
-
 作者:  [雪山雞白郎 (SnowGBL)](https://store.steampowered.com/curator/44790486)
+
+发行:  [Playmeow](https://store.steampowered.com/publisher/playmeow)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -292,13 +874,13 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [雪山别墅与三个妹子的做爱假期]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [Love Challenge](https://store.steampowered.com/app/2334130/)
 
-发行:  [Playmeow](https://store.steampowered.com/publisher/playmeow)
-
 作者:  [雪山雞白郎 (SnowGBL)](https://store.steampowered.com/curator/44790486)
+
+发行:  [Playmeow](https://store.steampowered.com/publisher/playmeow)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -320,7 +902,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [跨界]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  CrossRealms
 
@@ -340,7 +922,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [欧派奥德赛]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  OppaiOdyssey
 
@@ -366,7 +948,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [莉莉的情欲迷宫]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [Lily’s Labyrinth of Lust](https://store.steampowered.com/app/2866440/Lilys_Labyrinth_of_Lust/)
 
@@ -392,7 +974,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [神秘别墅]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  The Mystery Villa
 
@@ -418,7 +1000,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [稻荷:乡村生活]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [Inari](https://store.steampowered.com/app/2639100/Inari/)
 
@@ -449,7 +1031,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [恶魔合约：孵化器]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  [Incubus](https://store.steampowered.com/app/1973080/Incubus/)
 
@@ -482,211 +1064,11 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 暂无
 ```
 
-## 【RPG】
-
-### [重时:余火再燃]
-
-#### 详情介绍2
-
-原作:  余火再燃-天彩乱
-
-作者:  [boosty](https://boosty.to/sweetsworkshopgames)
-
-发行:  [引力圈](https://app.unifans.io/c/sweetworkshop)
-
-```markdown
-# [玩法] → [可玩性]
-[2D] → [★2]
-# [CG] → [质量]
-[3D] → [★5]
-
-# 文件保存目录
-.\www\save
-```
-
-#### [V2025.05.15](https://t.me/huangyou_A/58729)  |  [TG](#黄油派对|每日全天候营业)
-
-#### 详情介绍1
-
-原作:  余火再燃 鸿图琦
-
-发行:  [甜食工坊](https://app.unifans.io/c/sweetworkshop)
-
-```markdown
-同上
-```
-
-#### [ver25.03.15](https://t.me/Zhzbzx/15227)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [我的幸福人生]
-
-#### 详情介绍
-
-原作:  My Happy Life
-
-发行:  [BlueFish](https://www.patreon.com/BlueFishGames)
-
-```markdown
-# [玩法] → [可玩性]
-[2D] → [★2]
-# [CG] → [质量]
-[3D] → [★5]
-
-# 文件保存目录
-暂无
-```
-
-#### [V1.5](https://t.me/huangyou_A/55760)  |  [TG](#黄油派对|每日全天候营业)
-
-#### [ver1.4.1](https://t.me/LspGame/990)  |  [TG](#黄油分享)
-
-#### [ver1.4](https://t.me/Zhzbzx/13957)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [爱巢]
-
-#### 详情介绍
-
-作者:  SUO速
-
-```markdown
-# [玩法] → [可玩性]
-[2D] → [★2]
-# [CG] → [质量]
-[2D+] → [★3]
-
-# 文件保存目录
-.\www\save
-```
-
-#### [合集](https://t.me/Zhzbzx/11099)  |  [TG](#ACG便利贴(免费黄油))
-
-#### [V2.3 (D+N)](https://t.me/Zhzbzx/774)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [颠覆]
-
-#### 详情介绍
-
-原作:  SUBVERSE
-
-发行:  [StudioFOW](https://store.steampowered.com/agecheck/app/1034140)
-
-```markdown
-# [玩法] → [可玩性]
-[静态-3D] → [★2]
-# [CG] → [质量]
-[3D] → [★3]
-
-# 文件保存目录
-%UserProfile%\AppData\Local\Subverse\Saved\SaveGames
-```
-
-#### [ver8.4](https://t.me/Zhzbzx/8738)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [永恒世界]
-
-#### 详情介绍
-
-原作:  Eternum
-
-作者:  [Caribdis](https://www.patreon.com/onceinalifetime)
-
-发行:  [Eternum](https://caribdis.itch.io/eternum)
-
-```markdown
-# [玩法] → [可玩性]
-[静态-3D] → [★2]
-# [CG] → [质量]
-[3D] → [★4]
-
-# 文件保存目录
-%UserProfile%\AppData\Roaming\RenPy\Eternum-1610153667
-```
-
-#### [ver0.8.5](https://t.me/LspGame/995)  |  [TG](#黄油分享)
-
-#### 攻略
-
-```markdown
-暂无
-```
-
-### [绯月仙行录]
-
-#### 详情介绍
-
-作者:  [蓝月虫](https://www.patreon.com/LanYC)
-
-```markdown
-# [玩法] → [可玩性]
-[2D] → [★2]
-# [CG] → [质量]
-[2D] → [★2]
-
-# 文件保存目录
-.\save
-.\data
-```
-
-#### [ver0.628](https://t.me/Zhzbzx/13168)  |  [TG](#ACG便利贴(免费黄油))
-
-#### [V0.515A](https://t.me/Zhzbzx/8262)  |  [TG](#ACG便利贴(免费黄油))
-
-#### 攻略
-
-<a href="攻略文档\绯月修仙录.md">绯月修仙录</a>
-
-### [合欢宗女修传]
-
-#### 详情介绍
-
-作者:  [月亮龙](https://www.patreon.com/yuelianglong)
-
-```markdown
-# [玩法] → [可玩性]
-[2D] → [★1]
-# [CG] → [质量]
-[2D] → [★1]
-
-# 文件保存目录
-.\save
-.\data
-```
-
-#### [V0.17](https://t.me/yuyeweimian/12899)  |  [TG](#『雨夜凉亭』ACG频道)
-
-#### 攻略
-
-<a href="攻略文档\合欢宗女修传.md">合欢宗女修传</a>
-
 ## 【QSP】
 
 ### [亚洲之子]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  Son Of Asia (SOA)
 
@@ -712,7 +1094,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [就是个混蛋]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  Son of a Bitch (SOB)
 
@@ -740,7 +1122,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [AI少女]
 
-#### 详情介绍2
+#### # 详情介绍2
 
 作品:  AI少女-璇玑公主
 
@@ -760,7 +1142,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### [V1.2.3](https://t.me/Zhzbzx/2511)  |  [TG](#ACG便利贴(免费黄油))
 
-#### 详情介绍1
+#### # 详情介绍1
 
 作品:  AI少女
 
@@ -782,7 +1164,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [甜蜜选择2]
 
-#### 详情介绍2
+#### # 详情介绍2
 
 作品:  Honey Select 2:原欲璇玑公主
 
@@ -802,7 +1184,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### [V1.2.3](https://t.me/Zhzbzx/9127)  |  [TG](#ACG便利贴(免费黄油))
 
-#### 详情介绍1
+#### # 详情介绍1
 
 作品:  HS2/甜心选择2
 
@@ -824,7 +1206,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ### [VAM]
 
-#### 详情介绍
+#### # 详情介绍
 
 原作:  Virt A Mate
 
@@ -902,9 +1284,7 @@ C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
 同上
 ```
 
-# 游戏资源
-
-## 【Telegram】
+# Telegram
 
 ### [ACG便利贴(免费黄油)](https://t.me/Zhzbzx)
 
@@ -912,6 +1292,13 @@ C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
 # 通用解压密码
 好好学习少点涩涩
 好好学习天天不涩
+```
+
+### [黄油中心](https://t.me/c/1678540823/6)
+
+```markdown
+# 通用解压密码
+暂无
 ```
 
 ### [里番 黄油聚集地](https://t.me/lifanhuangyouxi)
@@ -935,18 +1322,34 @@ C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
 t.me/farrslgrpg
 ```
 
-### [『雨夜凉亭』ACG频道](https://t.me/yuyeweimian)
+### [『雨夜凉亭』ACG频道](https://t.me/c/1620029174/812)
+
+```markdown
+# 通用解压密码
+半夏
+Liangting
+
+# 少数解压密码
+莱茵
+LaiYin
+三次郎
+www.agbbc.com
+www.acgfbw.com
+ed2k
+```
+
+### [Perfect Life CLUB](https://t.me/PerfectLife_Official)
 
 ```markdown
 # 通用解压密码
 暂无
 ```
 
-### [Perfect Life CLUB](https://t.me/PerfectLife_Channel)
+### [陌上花开轻烟阁](https://t.me/c/1819412809/229)
 
 ```markdown
 # 通用解压密码
-暂无
+gushan
 ```
 
 ### [黄油派对|每日全天候营业](https://t.me/huangyou_A)
@@ -969,7 +1372,4 @@ t.me/farrslgrpg
 ...
 ```
 
-## 【资源地址】
-
-<a href="./Resources.md">Resources</a>
-
+# [游戏资源](./Resources.md)
