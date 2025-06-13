@@ -22,13 +22,51 @@ TPS(Third Person Shooter)			第三人称射击
 
 ### [鸣潮] (需联网)
 
+#### # 安装步骤
+
+[Official](https://wutheringwaves.kurogames.com/) | [XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher/tags)
+
+```markdown
+# 官网安装程序
+-- 程序
+WutheringWaves_overseas_setup_2.1.1.0.exe
+-- 程序路径
+.\Install\Wuthering Waves
+-- 游戏路径
+.\Start\Wuthering Waves Game
+
+# XXMI-Launcher
+-- 程序
+XXMI-Launcher-Installer-Online-v1.8.2.msi
+-- 程序路径
+.\Config
+
+# XXMI-Launcher 设置
+-- General
+.\Start\Wuthering Waves Game
+-- WWMI
+.\WWMI
+
+# 模组管理工具
+-- 压缩包
+JASM-稳定版-自带驱动更新至最新.rar
+-- 工具路径
+.\Config_Mod\JASM-稳定版
+-- 程序
+JASM - Just Another Skin Manager.exe
+-- 右上角目标(完成之后可在 → 设置 → 游戏 → 选择游戏：[WuWa] → 进行更换)
+Wuthering Waves
+-- 3dMigoto 文件夹选择器
+.\WWMI
+```
+
+![image-20250612115636221](./详细文件/WutheringWaves/imgs/image-20250612115636221.png)
+
 #### # 详情介绍
 
 原作:  [Wuthering Waves](https://store.steampowered.com/app/3513350/Wuthering_Waves/)
 
 发行:  [KURO GAMES](https://store.steampowered.com/search/?developer=KURO%20GAMES)
-
-官网:  [Official](https://wutheringwaves.kurogames.com/)
 
 ```markdown
 # [玩法] → [可玩性]
@@ -160,7 +198,7 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★待定]
+[动态-3D] → [★4]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\RuinedNurse\Saved
@@ -175,8 +213,25 @@ Viski
 
 #### 攻略
 
+[全收集通关](https://www.bilibili.com/video/BV1kRzRYwEr6/)
+
 ```markdown
-暂无
+# 密码
+-- 骨骼(本手足头)
+6175
+-- 房间(右侧英文)
+301 → Karie
+302 → Daniele
+304 → Alex
+305 → E
+306 → Rachael
+307 → Sam
+-- 门后图像
+手电筒 记事本 怀表 臂章
+-- 光碟图像
+输血 听诊器 注射器 刷牙
+-- 卡牌
+方块7  红心8  梅花3  黑桃0
 ```
 
 ### [深渊学校]
@@ -189,7 +244,7 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★4]
+[动态-3D] → [★3]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\AbyssSchool\Saved
@@ -211,6 +266,8 @@ Viski
 
 #### 攻略
 
+[全流程](https://www.bilibili.com/video/BV1NH4y1Y7G2) | [全流程](https://www.bilibili.com/video/BV1vU421o76J)
+
 ```markdown
 暂无
 ```
@@ -227,7 +284,7 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★待定]
+[动态-3D] → [★3]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\VampireMansion\Saved
@@ -241,6 +298,8 @@ Viski
 ```
 
 #### 攻略
+
+[普通模式](https://www.bilibili.com/video/BV1FPwpe4EDj) | [困难模式](https://www.bilibili.com/video/BV1kRwheWEsm)
 
 ```markdown
 暂无
@@ -256,7 +315,7 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★待定]
+[动态-3D] → [★3]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\DarkSiren\Saved
@@ -270,6 +329,8 @@ Viski
 ```
 
 #### 攻略
+
+[普通模式](https://www.bilibili.com/video/BV1ggCHYZESF) | [通关全集](https://www.bilibili.com/video/BV13s4y1c7Ly)
 
 ```markdown
 暂无
@@ -295,11 +356,15 @@ Viski
 
 #### [V0.0.5](https://www.2gouacg.com/%e3%80%903d-act-%e4%b8%ad%e6%96%87-%e6%81%90%e6%80%96%e3%80%91%e7%bd%aa%e6%81%b6%e5%b0%96%e5%a1%94-sin-spire-ver0-0-5-%e5%ae%98%e6%96%b9%e4%b8%ad%e6%96%87%e7%89%88-%e7%99%be%e5%ba%a6uc-890m/)  |  [百度网盘](https://pan.baidu.com/s/1s9xs0lbPPe1cwBqrZeoTOw?pwd=xwmh&unzip=twodog)
 
-#### 攻略
-
 ```markdown
 # 百度网盘(weskix)
 全部文件/Game/罪恶尖塔 v0.0.5
+```
+
+#### 攻略
+
+```markdown
+暂无
 ```
 
 ### [家庭派对]

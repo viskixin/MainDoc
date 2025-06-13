@@ -68,6 +68,9 @@ Viski
 ## 【[小妖怪分享](https://www.xyg688.com)】
 
 ```markdown
+# 发布地址
+https://www.zzzz688.top
+
 # 账密
 暂无
 ```
