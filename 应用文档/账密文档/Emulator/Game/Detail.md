@@ -20,7 +20,50 @@ TPS(Third Person Shooter)			第三人称射击
 
 ## 【ACT】
 
+### [底特律：化身为人]
+
+#### # 详情介绍
+
+原作:  [Detroit: Become Human](https://store.steampowered.com/app/1222140/)
+
+发行:  [Quantic Dream](https://store.steampowered.com/publisher/QUANTICDREAM)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V20230928](https://steamzg.com/6072/)  |  [阿里](https://www.alipan.com/s/4WkV887XHkH?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1ze3by2_GyiQs0Q3E-FhHKg?pwd=6666
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ### [鸣潮] (需联网)
+
+#### # 详情介绍
+
+原作:  [Wuthering Waves](https://store.steampowered.com/app/3513350/Wuthering_Waves/)
+
+发行:  [KURO GAMES](https://store.steampowered.com/search/?developer=KURO%20GAMES)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★3]
+
+# 截图目录
+.\Client\Saved\ScreenShot
+```
 
 #### # 安装步骤
 
@@ -62,19 +105,9 @@ Wuthering Waves
 
 ![image-20250612115636221](./详细文件/WutheringWaves/imgs/image-20250612115636221.png)
 
-#### # 详情介绍
-
-原作:  [Wuthering Waves](https://store.steampowered.com/app/3513350/Wuthering_Waves/)
-
-发行:  [KURO GAMES](https://store.steampowered.com/search/?developer=KURO%20GAMES)
+#### # 账号信息
 
 ```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★5]
-
-# 截图目录
-.\Client\Saved\ScreenShot
-
 # 账密
 linhanxavi@gmail.com
 what.0414
@@ -89,6 +122,158 @@ Viski
 ```markdown
 # 注意
 只是版本魔改绅士整合包，需要在官网下载游戏本体配合整合包使用
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+## 【AVG】
+
+### [荒野大镖客2]
+
+#### # 详情介绍
+
+原作:  [Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
+
+发行:  [Rockstar Games](https://store.steampowered.com/developer/rockstargames)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1491.50](https://steamzg.com/14946/)  |  [阿里](https://www.alipan.com/s/npL4WrpgNYR?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/11FNkRQHhkVK8D2S6smCzKg?pwd=6666
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+## 【RPG】
+
+### [博德之门3]
+
+#### # 详情介绍
+
+原作:  [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
+
+发行:  [Larian Studios](https://store.steampowered.com/developer/larianstudios)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V4.1.1.6848561](https://steamzg.com/21659/)  |  [磁力](magnet:?xt=urn:btih:e1788213b1a4ac84d4cbc6e1b7feaf7daec572bc)
+
+```markdown
+# 夸克网盘
+https://pan.quark.cn/s/931e0ecb362a
+```
+
+#### [V4.1.1.6805605](https://acgxj.com/XJ09659/)  |  [度盘](https://pan.baidu.com/s/1h4DS5y5rWX32p6NWkAgRaA?pwd=6666)
+
+```markdown
+# 夸克网盘
+https://pan.quark.cn/s/cfabfbdc9bef
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [艾尔登法环]
+
+#### # 详情介绍2
+
+作品:  艾尔登法环 黑夜君临
+
+原作:  [ELDEN RING NIGHTREIGN](https://store.steampowered.com/app/2622380/)
+
+作者:  [FromSoftware Inc](https://store.steampowered.com/curator/45188208)
+
+发行:  [Bandai Namco Entertainment](https://store.steampowered.com/publisher/BANDAINAMCO)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.01.4](https://steamzg.com/14946/)  |  [阿里](https://www.alipan.com/s/QV1yQ7ZTtQM?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1zWECPL09F2Qgx-L9A2_IYA?pwd=6666
+```
+
+#### # 详情介绍1
+
+作品:  艾尔登法环 黄金树幽影
+
+原作:  [ELDEN RING SHADOW OF THE ERDTREE](https://store.steampowered.com/app/2778580/)
+
+作者:  同上
+
+发行:  同上
+
+```markdown
+同上
+```
+
+#### [V1.16.0](https://steamzg.com/15351/)  |  [阿里](https://www.alipan.com/s/r45ipAVDCvf?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1UTi14ORwJ47Z1xYv3fgrvw?pwd=6666
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [塞尔达传说：荒野之息]
+
+#### # 详情介绍
+
+原作:  [The Legend of Zelda: Breath of the wild](https://zelda.nintendo.com/)
+
+发行:  [Nintendo](https://store.nintendo.com.hk/70010000009367)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.6.0](https://steamzg.com/4224/)  |  [阿里](https://www.alipan.com/s/SKGfUaWfo2S?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1iNICSOAxImoF2dTStFr9YQ?pwd=6666
 ```
 
 #### 攻略
@@ -152,14 +337,14 @@ Viski
 %UserProfile%\AppData\Local\TheKillingAntidote\Saved\SaveGames
 ```
 
-#### [V0.5.3.2a](https://t.me/baoshanyouxi1/1150)  |  [夸克网盘](https://pan.quark.cn/s/d78ed3bf4f99)
+#### [V0.5.3.2a](https://t.me/baoshanyouxi1/1150)  |  [夸克](https://pan.quark.cn/s/d78ed3bf4f99)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
 文件/Game/致命解药 v0.5.3.2a 全MOD
 ```
 
-#### [V0.5.3.2a](https://steamzg.com/48698)  |  [阿里云盘](https://www.alipan.com/s/LCdnuX7GtuE?pwd=6666)
+#### [V0.5.3.2a](https://steamzg.com/48698/)  |  [阿里](https://www.alipan.com/s/LCdnuX7GtuE?p=6666)
 
 ```markdown
 # 阿里云盘
@@ -173,7 +358,7 @@ Viski
 文件/Game/致命解药 v0.5.3.1
 ```
 
-#### [V0.5.2.3](https://www.ns211.com/15224.html)  |  [夸克网盘](https://pan.quark.cn/s/84cbece63d38)
+#### [V0.5.2.3](https://www.ns211.com/15224.html)  |  [夸克](https://pan.quark.cn/s/84cbece63d38)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
@@ -204,7 +389,7 @@ Viski
 %UserProfile%\AppData\Local\RuinedNurse\Saved
 ```
 
-#### [V1.4.2](https://steamzg.com/50674/)  |  [阿里云盘](https://www.alipan.com/s/1pKgZr4oSX8?pwd=6666)
+#### [V1.4.2](https://steamzg.com/50674/)  |  [阿里](https://www.alipan.com/s/1pKgZr4oSX8?p=6666)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
@@ -250,14 +435,14 @@ Viski
 %UserProfile%\AppData\Local\AbyssSchool\Saved
 ```
 
-#### [V1.6.9](https://steamzg.com/42100/)  |  [阿里云盘](https://www.alipan.com/s/dqnkNXNyZh6?pwd=6666)
+#### [V1.6.9](https://steamzg.com/42100/)  |  [阿里](https://www.alipan.com/s/dqnkNXNyZh6?p=6666)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
 文件/Game/深渊学校 v1.6.9
 ```
 
-#### [V1.6.6](https://t.me/ciyuanbiGG/46251)  |  [百度网盘](https://pan.baidu.com/s/1q87fxo3wdfp2WVLlVNo9PQ?pwd=1set)
+#### [V1.6.6](https://t.me/ciyuanbiGG/46251)  |  [度盘](https://pan.baidu.com/s/1q87fxo3wdfp2WVLlVNo9PQ?pwd=1set)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
@@ -290,7 +475,7 @@ Viski
 %UserProfile%\AppData\Local\VampireMansion\Saved
 ```
 
-#### [V1.5.3](https://steamzg.com/43938/)  |  [阿里云盘](https://www.alipan.com/s/f5d5jDwMPqN?pwd=6666)
+#### [V1.5.3](https://steamzg.com/43938/)  |  [阿里](https://www.alipan.com/s/f5d5jDwMPqN?p=6666)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
@@ -321,7 +506,7 @@ Viski
 %UserProfile%\AppData\Local\DarkSiren\Saved
 ```
 
-#### [V1.32.2](https://steamzg.com/49924/)  |  [阿里云盘](https://www.alipan.com/s/QJnDppVGrNu?pwd=6666)
+#### [V1.32.2](https://steamzg.com/49924/)  |  [阿里](https://www.alipan.com/s/QJnDppVGrNu?p=6666)
 
 ```markdown
 # 夸克网盘(鱼于鱼)
@@ -338,6 +523,30 @@ Viski
 
 ## 【SLG】
 
+### [放学后的缩小大冒险]
+
+#### # 详情介绍
+
+原作:  After School Shrinking Adventure
+
+发行:  待定
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★2]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\AfterSchool\Saved
+```
+
+#### [V0.2.2](https://t.me/farrslgrpg/12809)  |  [TG](#Farr的黄油（游）仓库SLG.RPG.ADV.3D)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ### [罪恶尖塔]
 
 #### # 详情介绍
@@ -348,13 +557,13 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★3]
+[动态-3D] → [★2]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\SinSpire\Saved
 ```
 
-#### [V0.0.5](https://www.2gouacg.com/%e3%80%903d-act-%e4%b8%ad%e6%96%87-%e6%81%90%e6%80%96%e3%80%91%e7%bd%aa%e6%81%b6%e5%b0%96%e5%a1%94-sin-spire-ver0-0-5-%e5%ae%98%e6%96%b9%e4%b8%ad%e6%96%87%e7%89%88-%e7%99%be%e5%ba%a6uc-890m/)  |  [百度网盘](https://pan.baidu.com/s/1s9xs0lbPPe1cwBqrZeoTOw?pwd=xwmh&unzip=twodog)
+#### [V0.0.5](https://www.2gouacg.com/%e3%80%903d-act-%e4%b8%ad%e6%96%87-%e6%81%90%e6%80%96%e3%80%91%e7%bd%aa%e6%81%b6%e5%b0%96%e5%a1%94-sin-spire-ver0-0-5-%e5%ae%98%e6%96%b9%e4%b8%ad%e6%96%87%e7%89%88-%e7%99%be%e5%ba%a6uc-890m/)  |  [度盘](https://pan.baidu.com/s/1s9xs0lbPPe1cwBqrZeoTOw?pwd=xwmh&unzip=twodog)
 
 ```markdown
 # 百度网盘(weskix)
@@ -426,6 +635,37 @@ Viski
 ```
 
 ## 【RPG】
+
+### [纳迪亚之宝]
+
+#### # 详情介绍
+
+原作:  [Treasure of Nadia](https://store.steampowered.com/app/1737100/Treasure_of_Nadia/)
+
+发行:  [NLT Media](https://store.steampowered.com/search/?developer=NLT%20Media)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★4]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+%UserProfile%\AppData\Local\User Data
+```
+
+#### [V1.0112](https://steamzg.com/13137/)  |  [阿里](https://www.aliyundrive.com/s/f6pCsFKwdiD?p=2222)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1DNDHuWCk7xcq-g2ZYpDwYw?pwd=2222
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
 
 ### [重时:余火再燃]
 
@@ -570,6 +810,32 @@ Viski
 ```
 
 #### [ver0.8.5](https://t.me/LspGame/995)  |  [TG](#黄油分享)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [哥布林杀手]
+
+#### # 详情介绍
+
+原作:  Goblin Layer
+
+发行:  [parodos](https://itch.io/profile/parodos)
+
+```markdown
+# [玩法] → [可玩性]
+[2D] → [★3]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+.\www\save
+```
+
+#### [ver0.573](https://t.me/Zhzbzx/16327)  |  [TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
