@@ -20,6 +20,35 @@ TPS(Third Person Shooter)			第三人称射击
 
 ## 【ACT】
 
+### [赛博朋克2077]
+
+#### # 详情介绍
+
+原作:  [Cyberpunk 2077](https://store.steampowered.com/app/1091500/_2077/)
+
+发行:  [CD PROJEKT RED](https://store.steampowered.com/publisher/CDPR)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
+#### [V2.21](https://steamzg.com/22319/)  |  [阿里](https://www.alipan.com/s/RC8FkehqYZL?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1LSPhwYSU-793inFxwrZ2_A?pwd=6666
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ### [底特律：化身为人]
 
 #### # 详情介绍
@@ -30,7 +59,7 @@ TPS(Third Person Shooter)			第三人称射击
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★待定]
 
 # 文件保存目录
 暂无
@@ -132,17 +161,53 @@ Viski
 
 ## 【AVG】
 
+### [辐射 4]
+
+#### # 详情介绍
+
+原作:  [Fallout 4](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
+
+发行:  [Bethesda Softworks](https://store.steampowered.com/publisher/bethesda)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
+#### [V1.10.984](https://steamzg.com/24285/)  |  [阿里](https://www.alipan.com/s/wugBoZRXa6J?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1GfV6iW-P2DflOK5fjw6njg?pwd=6666
+```
+
+#### [V待定](https://steamzg.com/25259/)  |  [阿里](https://www.alipan.com/s/y96qp5QM58m?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1ycwT4g7vVxI0qMWbafXUhQ?pwd=6666
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ### [荒野大镖客2]
 
 #### # 详情介绍
 
-原作:  [Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
+原作:  [Red Dead Redemption 2](https://store.steampowered.com/app/377160/Fallout_4/)
 
 发行:  [Rockstar Games](https://store.steampowered.com/developer/rockstargames)
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★待定]
 
 # 文件保存目录
 暂无
@@ -173,10 +238,10 @@ https://pan.baidu.com/s/11FNkRQHhkVK8D2S6smCzKg?pwd=6666
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★待定]
 
 # 文件保存目录
-暂无
+%UserProfile%\AppData\Local\Larian Studios\Baldur's Gate 3
 ```
 
 #### [V4.1.1.6848561](https://steamzg.com/21659/)  |  [磁力](magnet:?xt=urn:btih:e1788213b1a4ac84d4cbc6e1b7feaf7daec572bc)
@@ -213,7 +278,7 @@ https://pan.quark.cn/s/cfabfbdc9bef
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★待定]
 
 # 文件保存目录
 暂无
@@ -263,7 +328,7 @@ https://pan.baidu.com/s/1UTi14ORwJ47Z1xYv3fgrvw?pwd=6666
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★5]
+[动态-3D] → [★待定]
 
 # 文件保存目录
 暂无
@@ -646,9 +711,9 @@ https://pan.baidu.com/s/1iNICSOAxImoF2dTStFr9YQ?pwd=6666
 
 ```markdown
 # [玩法] → [可玩性]
-[2D] → [★4]
+[2D] → [★3]
 # [CG] → [质量]
-[3D] → [★5]
+[3D] → [★4]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\User Data
@@ -662,6 +727,8 @@ https://pan.baidu.com/s/1DNDHuWCk7xcq-g2ZYpDwYw?pwd=2222
 ```
 
 #### 攻略
+
+[古庙解谜](https://www.bilibili.com/video/BV17m4y1Z7tQ)
 
 ```markdown
 暂无
@@ -892,6 +959,34 @@ https://pan.baidu.com/s/1DNDHuWCk7xcq-g2ZYpDwYw?pwd=2222
 <a href="攻略文档\合欢宗女修传.md">合欢宗女修传</a>
 
 ## 【SLG】
+
+### [隔壁的女主播]
+
+#### # 详情介绍
+
+原作:  [隔壁的女主播](https://store.steampowered.com/app/1997410/)
+
+作者:  18cmSam | UVKen
+
+发行:  [Playmeow](https://store.steampowered.com/publisher/playmeow) | [ACG creator](https://store.steampowered.com/curator/43525890) | [Playmeow News](https://store.steampowered.com/curator/45434844)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★5]
+
+# 文件保存目录
+暂无
+```
+
+#### [V待定](https://t.me/farrslgrpg/29074)  |  [TG](#Farr的黄油（游）仓库SLG.RPG.ADV.3D)
+
+#### 攻略
+
+```markdown
+暂无
+```
 
 ### [性趣探测器]
 
@@ -1153,9 +1248,9 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### # 详情介绍
 
-原作:  [極品采花郎](https://store.steampowered.com/app/2897760/)
+原作:  [极品采花郎](https://store.steampowered.com/app/2897760/)
 
-发行:  Salamander Interactive | [蠑螈](https://store.steampowered.com/search/?publisher=%E8%A0%91%E8%9E%88)
+发行:  [蠑螈](https://store.steampowered.com/search/?publisher=%E8%A0%91%E8%9E%88) | Salamander Interactive
 
 ```markdown
 # [玩法] → [可玩性]
@@ -1203,9 +1298,11 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 暂无
 ```
 
-### [雪山别墅与三个妹子的做爱假期]
+### [爱情挑战]
 
 #### # 详情介绍
+
+作品:  雪山别墅与三个妹子的做爱假期
 
 原作:  [Love Challenge](https://store.steampowered.com/app/2334130/)
 

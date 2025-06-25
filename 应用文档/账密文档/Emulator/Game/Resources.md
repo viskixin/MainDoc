@@ -41,6 +41,13 @@ acgbns.com
 ACGBNS
 ```
 
+## 【[Switch520](https://www.gamer520.com)】
+
+```markdown
+# 账密
+暂无
+```
+
 ## 【[ns中文网](https://www.ns211.com)】
 
 ```markdown
@@ -52,13 +59,6 @@ Viski
 ```
 
 ## 【[胖达游戏](https://www.pangdagame.com)】
-
-```markdown
-# 账密
-暂无
-```
-
-## 【[Switch520](https://www.gamer520.com)】
 
 ```markdown
 # 账密
@@ -83,6 +83,16 @@ https://www.twodog.wang
 
 # 账密
 暂无
+```
+
+## 【[游戏群星](https://gamestellaris.com)】
+
+```markdown
+# 账密
+2244255266@qq.com
+what.0414
+# 用户名
+Viski
 ```
 
 ## 【[任天堂](https://www.nintendo.com)】
