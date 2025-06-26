@@ -14,6 +14,13 @@ SLG(Simulation Game)				模拟游戏
 STG(Shooting Game)					射击游戏
 TPS(Third Person Shooter)			第三人称射击
 
+# 常见的游戏存档路径(Windows)
+%UserProfile%\AppData\Local\<游戏名>
+%UserProfile%\AppData\LocalLow\<开发商>\<游戏名>
+
+# Steam userdata 路径(云存档或本地存档)
+C:\Program Files (x86)\Steam\userdata\<SteamID>\<游戏ID>\remote
+
 # 推荐指数
 ★number
 ```
@@ -348,6 +355,35 @@ https://pan.baidu.com/s/1iNICSOAxImoF2dTStFr9YQ?pwd=6666
 ```
 
 ## 【SLG】
+
+### [房屋中介模拟]
+
+#### # 详情介绍
+
+原作:  [Estate Agent Simulator](https://store.steampowered.com/app/2553050/)
+
+发行:  [Kiki Games](https://store.steampowered.com/publisher/KikiGames?snr=1_5_9__2000)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+%UserProfile%\AppData\LocalLow\KikiGames\EstateAgent\Saves
+```
+
+#### [V0.3.2](https://steamzg.com/56034/)  |  [阿里](https://www.alipan.com/s/Bn3SN5CdnNs?p=6666)
+
+```markdown
+# 百度网盘
+https://pan.baidu.com/s/1DnRBD6qWK04Tqxal3IATPw?pwd=6666
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
 
 ### [隔离区：最后的检查]
 
@@ -713,7 +749,7 @@ https://pan.baidu.com/s/1iNICSOAxImoF2dTStFr9YQ?pwd=6666
 # [玩法] → [可玩性]
 [2D] → [★3]
 # [CG] → [质量]
-[3D] → [★4]
+[3D] → [★5]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\User Data
@@ -959,6 +995,32 @@ https://pan.baidu.com/s/1DNDHuWCk7xcq-g2ZYpDwYw?pwd=2222
 <a href="攻略文档\合欢宗女修传.md">合欢宗女修传</a>
 
 ## 【SLG】
+
+### [与你在一起]
+
+#### # 详情介绍
+
+原作:  [TOGETHER BnB](https://store.steampowered.com/app/1239020/TOGETHER_BnB/)
+
+发行:  [AURORA Games](https://store.steampowered.com/publisher/AuroraGames)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+# [CG] → [质量]
+[3D] → [★待定]
+
+# 文件保存目录
+.\TogetherBNB\Saved\SaveGames
+```
+
+#### [V3.6.9](https://t.me/huangyou_A/3435)  |  [TG](#黄油派对|每日全天候营业)
+
+#### 攻略
+
+```markdown
+暂无
+```
 
 ### [隔壁的女主播]
 
