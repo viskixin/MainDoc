@@ -95,6 +95,16 @@ what.0414
 Viski
 ```
 
+## 【[梨子乐](https://lzlgo.com)】
+
+```markdown
+# 发布地址
+https://sway.cloud.microsoft/T7xTqsHSsbEEpyLj
+
+# 账密
+暂无
+```
+
 ## 【[任天堂](https://www.nintendo.com)】
 
 ```markdown

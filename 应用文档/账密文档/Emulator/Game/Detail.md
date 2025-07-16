@@ -8,6 +8,7 @@ ARPG(Action Role Playing Game)		动作角色扮演
 FPS(First Person Shooter)			第一人称射击
 FTG(Fighting Game)					格斗游戏
 QSP(Quest Soft Player)				互动叙事游戏
+Roguelike(rogue-like)				关卡地牢、回合制战斗
 RPG(Role Playing Game)				角色扮演
 RTS(Real Time Strategy)				即时策略
 SLG(Simulation Game)				模拟游戏
@@ -233,6 +234,41 @@ https://pan.baidu.com/s/11FNkRQHhkVK8D2S6smCzKg?pwd=6666
 暂无
 ```
 
+## 【Roguelike】
+
+### [小鸡舰队出击]
+
+#### # 详情介绍
+
+原作:  [小鸡舰队出击](https://www.wandoujia.com/apps/8386749/history)
+
+实名:  [身份证](https://zhidao.baidu.com/question/314522582584223324.html)
+
+```markdown
+# 临时账密
+doinno
+qwer1234
+# 验证信息
+吴恒河
+422123196802174959
+```
+
+#### [BT服2](https://www.kdocs.cn/l/cixdRO3011dv)  |  [公告2](https://www.kdocs.cn/l/cgJ1IhIppxED)  |  [热门BT](https://shimo.im/docs/16q8xRGXDMU68gq7/read)
+
+#### [BT服1](https://shimo.im/docs/d8xwiMzA9vvbtiL1/read)  |  [公告1](https://shimo.im/docs/j47fDs9ikwXu1OnJ/read)  |  [热门BT](https://shimo.im/docs/gO3odDYZxVhPG6qD/read)
+
+#### 攻略
+
+```markdown
+# 可使用 gameguardian 修改器
+-- new(W)
+20000;200;200;2000
+-- next(W)
+20000
+-- updatet(W)
+200
+```
+
 ## 【RPG】
 
 ### [博德之门3]
@@ -275,7 +311,7 @@ https://pan.quark.cn/s/cfabfbdc9bef
 
 #### # 详情介绍2
 
-作品:  艾尔登法环 黑夜君临
+译名:  艾尔登法环 黑夜君临
 
 原作:  [ELDEN RING NIGHTREIGN](https://store.steampowered.com/app/2622380/)
 
@@ -300,7 +336,7 @@ https://pan.baidu.com/s/1zWECPL09F2Qgx-L9A2_IYA?pwd=6666
 
 #### # 详情介绍1
 
-作品:  艾尔登法环 黄金树幽影
+译名:  艾尔登法环 黄金树幽影
 
 原作:  [ELDEN RING SHADOW OF THE ERDTREE](https://store.steampowered.com/app/2778580/)
 
@@ -749,7 +785,7 @@ https://pan.baidu.com/s/1DnRBD6qWK04Tqxal3IATPw?pwd=6666
 # [玩法] → [可玩性]
 [2D] → [★3]
 # [CG] → [质量]
-[3D] → [★5]
+[3D] → [★4]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\User Data
@@ -996,32 +1032,6 @@ https://pan.baidu.com/s/1DNDHuWCk7xcq-g2ZYpDwYw?pwd=2222
 
 ## 【SLG】
 
-### [与你在一起]
-
-#### # 详情介绍
-
-原作:  [TOGETHER BnB](https://store.steampowered.com/app/1239020/TOGETHER_BnB/)
-
-发行:  [AURORA Games](https://store.steampowered.com/publisher/AuroraGames)
-
-```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★待定]
-# [CG] → [质量]
-[3D] → [★待定]
-
-# 文件保存目录
-.\TogetherBNB\Saved\SaveGames
-```
-
-#### [V3.6.9](https://t.me/huangyou_A/3435)  |  [TG](#黄油派对|每日全天候营业)
-
-#### 攻略
-
-```markdown
-暂无
-```
-
 ### [隔壁的女主播]
 
 #### # 详情介绍
@@ -1216,32 +1226,6 @@ https://pan.baidu.com/s/1DNDHuWCk7xcq-g2ZYpDwYw?pwd=2222
 暂无
 ```
 
-### [堕落玩偶]
-
-#### # 详情介绍
-
-原作:  [Operation Lovecraft: Fallen Doll](https://store.steampowered.com/app/1685960/)
-
-发行:  [Project Helius](https://store.steampowered.com/search/?developer=Project%20Helius)
-
-```markdown
-# [玩法] → [可玩性]
-[动态-3D] → [★待定]
-# [CG] → [质量]
-[3D] → [★3]
-
-# 文件保存目录
-暂无
-```
-
-#### [V0.4.9](https://t.me/huangyou_A/2987)  |  [TG](#黄油派对|每日全天候营业)
-
-#### 攻略
-
-```markdown
-暂无
-```
-
 ### [最后的希望]
 
 #### # 详情介绍
@@ -1318,15 +1302,45 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 # [玩法] → [可玩性]
 [动态-3D] → [★4]
 # [CG] → [质量]
-[3D] → [★3]
+[3D] → [★4]
 
 # 文件保存目录
 %UserProfile%\AppData\LocalLow\Salamander\RE
 ```
 
+#### [V1.4.2](https://t.me/therainArchive/19935)  |  [TG](#『雨夜凉亭』ACG频道)
+
 #### [V1.3.7](https://t.me/farrslgrpg/27826)  |  [TG](#Farr的黄油（游）仓库SLG.RPG.ADV.3D)
 
 #### 攻略
+
+```markdown
+暂无
+```
+
+### [与你在一起]
+
+#### # 详情介绍
+
+原作:  [TOGETHER BnB](https://store.steampowered.com/app/1239020/TOGETHER_BnB/)
+
+发行:  [AURORA Games](https://store.steampowered.com/publisher/AuroraGames)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★3]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+.\TogetherBNB\Saved\SaveGames
+```
+
+#### [V3.6.9](https://t.me/huangyou_A/3435)  |  [TG](#黄油派对|每日全天候营业)
+
+#### 攻略
+
+[完整流程](https://www.doyo.cn/article/474225)
 
 ```markdown
 暂无
@@ -1364,7 +1378,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### # 详情介绍
 
-作品:  雪山别墅与三个妹子的做爱假期
+译名:  雪山别墅与三个妹子的做爱假期
 
 原作:  [Love Challenge](https://store.steampowered.com/app/2334130/)
 
@@ -1374,7 +1388,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 ```markdown
 # [玩法] → [可玩性]
-[静态-3D] → [★2]
+[静态-3D] → [★3]
 # [CG] → [质量]
 [3D] → [★3]
 
@@ -1383,6 +1397,60 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 ```
 
 #### [V1.5.5](https://t.me/farrslgrpg/26977)  |  [TG](#Farr的黄油（游）仓库SLG.RPG.ADV.3D)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [欧派奥德赛]
+
+#### # 详情介绍
+
+原作:  OppaiOdyssey
+
+发行:  [Cryoxxx](https://www.patreon.com/OppaiOdyssey)
+
+```markdown
+# [玩法] → [可玩性]
+[静态-3D] → [★3]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [ver0.4.5](https://t.me/Zhzbzx/14670)  |  [TG](#ACG便利贴(免费黄油))
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [堕落玩偶]
+
+#### # 详情介绍
+
+译名:  洛夫克拉夫特行动：堕落玩偶
+
+原作:  [Operation Lovecraft: Fallen Doll](https://store.steampowered.com/app/1685960/)
+
+发行:  [Project Helius](https://store.steampowered.com/search/?developer=Project%20Helius)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★2]
+# [CG] → [质量]
+[3D] → [★3]
+
+# 文件保存目录
+暂无
+```
+
+#### [V0.4.9](https://t.me/huangyou_A/2987)  |  [TG](#黄油派对|每日全天候营业)
 
 #### 攻略
 
@@ -1409,26 +1477,6 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 ```
 
 #### [ver0.3.0](https://t.me/Zhzbzx/16099)  |  [TG](#ACG便利贴(免费黄油))
-
-### [欧派奥德赛]
-
-#### # 详情介绍
-
-原作:  OppaiOdyssey
-
-发行:  [Cryoxxx](https://www.patreon.com/OppaiOdyssey)
-
-```markdown
-# [玩法] → [可玩性]
-[静态-3D] → [★3]
-# [CG] → [质量]
-[3D] → [★3]
-
-# 文件保存目录
-暂无
-```
-
-#### [ver0.4.5](https://t.me/Zhzbzx/14670)  |  [TG](#ACG便利贴(免费黄油))
 
 #### 攻略
 
@@ -1614,7 +1662,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### # 详情介绍2
 
-作品:  AI少女-璇玑公主
+译名:  AI少女-璇玑公主
 
 原作:  [AI＊Shoujo/AI＊少女](https://store.steampowered.com/app/1250650/AIShoujoAI/)
 
@@ -1634,7 +1682,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### # 详情介绍1
 
-作品:  AI少女
+译名:  AI少女
 
 原作:  同上
 
@@ -1656,7 +1704,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### # 详情介绍2
 
-作品:  Honey Select 2:原欲璇玑公主
+译名:  Honey Select 2:原欲璇玑公主
 
 原作:  [Honey Select 2 Libido DX](https://store.steampowered.com/app/1631080/HoneySelect2Libido_DX) | [ハニーセレクト2 リビドーDX](https://www.getchu.com/soft.phtml?id=1102442)
 
@@ -1676,7 +1724,7 @@ magnet:?xt=urn:btih:863B2A12CE23DA2694FE3267BCA67380DAB2D6F9
 
 #### # 详情介绍1
 
-作品:  HS2/甜心选择2
+译名:  HS2/甜心选择2
 
 原作:  同上
 
