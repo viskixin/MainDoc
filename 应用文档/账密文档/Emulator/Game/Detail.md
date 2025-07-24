@@ -167,6 +167,74 @@ Viski
 暂无
 ```
 
+## 【ARPG】
+
+### [明末]
+
+#### # 详情介绍
+
+原作:  [明末：渊虚之羽](https://store.steampowered.com/app/2277560/)
+
+作者:  [Leenzee](https://store.steampowered.com/search/?developer=Leenzee)
+
+发行:  [505 Games](https://store.steampowered.com/publisher/505Games)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
+#### [V178067](https://laoguan777.com/37401.html)  |  [夸克](https://pan.quark.cn/s/3a3fded29755)
+
+```markdown
+# 夸克网盘
+文件/Game/明末：渊虚之羽 v178067
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [剑星]
+
+#### # 详情介绍
+
+原作:  [Stellar Blade](https://store.steampowered.com/app/3489700/)
+
+作者:  [SHIFT UP Corporation](https://store.steampowered.com/search/?developer=SHIFT%20UP%20Corporation)
+
+发行:  [PlayStation Publishing LLC](https://store.steampowered.com/publisher/playstationstudios)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
+#### [V-Latest](https://v.douyin.com/wGDAXYRJ_XY/)  |  [脚本](./详细文件/StellarBlade/shell/pws)
+
+```markdown
+# 打开终端
+[Win + X] + A
+# 从 http://2.steam.work 下载并执行脚本
+irm 2.steam.work | iex
+# CDKEY
+JN4X4-Q8KNV-BZ34F-BR2FO
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ## 【AVG】
 
 ### [辐射 4]
@@ -242,6 +310,15 @@ https://pan.baidu.com/s/11FNkRQHhkVK8D2S6smCzKg?pwd=6666
 
 原作:  [小鸡舰队出击](https://www.wandoujia.com/apps/8386749/history)
 
+```markdown
+# 官服-起始日期
+2025年5月28日
+# 账密-抖音小程序
+授权登录
+# 服务器
+农场5服 → ID: 347009563
+```
+
 实名:  [身份证](https://zhidao.baidu.com/question/314522582584223324.html)
 
 ```markdown
@@ -256,6 +333,22 @@ qwer1234
 #### [BT服2](https://www.kdocs.cn/l/cixdRO3011dv)  |  [公告2](https://www.kdocs.cn/l/cgJ1IhIppxED)  |  [热门BT](https://shimo.im/docs/16q8xRGXDMU68gq7/read)
 
 #### [BT服1](https://shimo.im/docs/d8xwiMzA9vvbtiL1/read)  |  [公告1](https://shimo.im/docs/j47fDs9ikwXu1OnJ/read)  |  [热门BT](https://shimo.im/docs/gO3odDYZxVhPG6qD/read)
+
+```markdown
+# BT服-起始日期
+2025年7月03日
+# 账密1-APP登录
+viski
+what.0414
+# 账密2-APP登录
+weski
+what.0414
+# 服务器
+正式服-1	→	ID: 1013230
+正式服-5	→	ID: 5006286
+正式服-6	→	ID: 6004963
+正式服-11	→	ID: 11005851
+```
 
 #### 攻略
 
@@ -700,7 +793,7 @@ https://pan.baidu.com/s/1DnRBD6qWK04Tqxal3IATPw?pwd=6666
 %UserProfile%\AppData\Local\SinSpire\Saved
 ```
 
-#### [V0.0.5](https://www.2gouacg.com/%e3%80%903d-act-%e4%b8%ad%e6%96%87-%e6%81%90%e6%80%96%e3%80%91%e7%bd%aa%e6%81%b6%e5%b0%96%e5%a1%94-sin-spire-ver0-0-5-%e5%ae%98%e6%96%b9%e4%b8%ad%e6%96%87%e7%89%88-%e7%99%be%e5%ba%a6uc-890m/)  |  [度盘](https://pan.baidu.com/s/1s9xs0lbPPe1cwBqrZeoTOw?pwd=xwmh&unzip=twodog)
+#### [V0.0.5](https://ergouacg.top/?p=9360)  |  [度盘](https://pan.baidu.com/s/1s9xs0lbPPe1cwBqrZeoTOw?pwd=xwmh&unzip=twodog)
 
 ```markdown
 # 百度网盘(weskix)

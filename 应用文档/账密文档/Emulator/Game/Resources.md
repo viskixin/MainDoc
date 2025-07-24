@@ -41,7 +41,77 @@ acgbns.com
 ACGBNS
 ```
 
+## 【[关先生资源站](https://laoguan777.com)】
+
+```markdown
+# 发布地址
+https://www.laoguan.top
+https://sway.cloud.microsoft/Lz8ZoZqbkHyUdVzo
+
+# 账密
+暂无
+```
+
+## 【[咸鱼单机](https://www.xianyudanji.ai)】
+
+```markdown
+# 发布地址
+https://www.game7.vip
+https://sway.cloud.microsoft/ZDgvMFBQkLababQW
+
+# 账密
+2244255266@qq.com
+what.0414
+# 用户名
+Viski
+```
+
+## 【[梨子乐](https://lzlgo.com)】
+
+```markdown
+# 发布地址
+https://www.scfby.com
+https://sway.cloud.microsoft/T7xTqsHSsbEEpyLj
+
+# 账密
+暂无
+```
+
+## 【[游戏群星](https://gamestellaris.com)】
+
+```markdown
+# 账密
+2244255266@qq.com
+what.0414
+# 用户名
+Viski
+```
+
+## 【[XDGAME](https://www.xdgame.com)】
+
+```markdown
+# 账密
+暂无
+```
+
+## 【[XDGAMES](https://www.xdgames.cn)】
+
+```markdown
+# 账密
+2244255266@qq.com
+what.0414
+# 用户名
+Viski
+```
+
 ## 【[Switch520](https://www.gamer520.com)】
+
+```markdown
+# 账密
+暂无
+```
+
+## 【[Switch618](https://www.switch618.com)】
 
 ```markdown
 # 账密
@@ -75,32 +145,9 @@ https://www.zzzz688.top
 暂无
 ```
 
-## 【[二狗狗ACG](https://www.2gouacg.com)】
+## 【[byrut](https://byrutgame.org)】
 
 ```markdown
-# 发布地址
-https://www.twodog.wang
-
-# 账密
-暂无
-```
-
-## 【[游戏群星](https://gamestellaris.com)】
-
-```markdown
-# 账密
-2244255266@qq.com
-what.0414
-# 用户名
-Viski
-```
-
-## 【[梨子乐](https://lzlgo.com)】
-
-```markdown
-# 发布地址
-https://sway.cloud.microsoft/T7xTqsHSsbEEpyLj
-
 # 账密
 暂无
 ```
@@ -145,6 +192,23 @@ http://78gamego.com
 ```markdown
 # 账密
 暂无
+```
+
+## 【[二狗狗ACG](https://ergouacg.top)】
+
+```markdown
+# 发布地址
+https://www.twodog.wang
+
+# 账密
+暂无
+```
+
+### # [解压/安装]密码
+
+```markdown
+# 默认密码
+twodog
 ```
 
 # Mods

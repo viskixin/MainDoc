@@ -152,6 +152,18 @@ bin/kafka-server-start.sh -daemon config/server.properties
 root/123456
 ```
 
+#### mysql
+
+```markdown
+# 目录
+cd /usr/local/src/mysql-8.0.25-el7-x86_64
+# 配置文件(主服务)
+vi /etc/my.cnf
+# 账密
+root
+123456
+```
+
 #### redis
 
 ```markdown
@@ -180,6 +192,17 @@ cluster nodes
 同上
 ```
 
+#### mysql
+
+```markdown
+# 目录
+同上
+# 配置文件(从服务)
+vi /etc/my.cnf
+# 账密
+同上
+```
+
 #### redis
 
 ```markdown
@@ -198,6 +221,17 @@ src/redis-cli -a zhuge -c -h 192.168.90.62 -p 8002
 #### Info
 
 ```markdown
+同上
+```
+
+#### mysql
+
+```markdown
+# 目录
+同上
+# 配置文件(从服务)
+vi /etc/my.cnf
+# 账密
 同上
 ```
 

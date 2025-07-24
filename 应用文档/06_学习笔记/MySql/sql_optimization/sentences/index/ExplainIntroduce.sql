@@ -316,7 +316,7 @@ explain select * from employees where date(hire_time) = '2018-09-30';
   -- 使用 比较运算符，会走索引(由于日期具有固定的格式，MySQL可以将其转换为数字进行比较，因此日期字段条件查询给字符串时也可以走索引)
 explain select * from employees where hire_time = '2023-10-26 19:48:01';
 explain select * from employees where hire_time >='2023-10-26 00:00:00' and hire_time <='2023-10-26 23:59:59';
-  -- 如果数据量比较大的情况，且二级索引需要回表查询，不如直接从一级索引查找。如果数据量过小，可能会先走索引，再回表查询，如上所示
+  -- 如果数据量比较大的情况，且二级索引需要回表查询，不如直接从一级索引查找。如果数据量过小，可能会先走索引，再回表查询
 explain select * from employees where hire_time >='2018-09-30 00:00:00' and hire_time <='2023-10-31 23:59:59';
   -- int类型字段，条件查询给字符串时，实际上是将字符串转换成数字进行比较，如果字符串可以被转换成数字，MySQL会自动进行类型转换，并走索引
 explain select * from employees where name = 'LiLei' and age = '22';
@@ -355,7 +355,7 @@ alter table `film` add index `idx_age` (`age`) using btree;
 	  or导致索引失效，虽然name可以使用索引，但是or表示age不一定在name条件下
 		此时需要全表扫面，索引失效
 	*/
-	-- 二级索引全表扫描
+	-- 二级索引
 explain select id,name,age from employees_copy where name = 'LiLei' or age = 22;
 explain select id,name,age from employees where name = 'LiLei' or age = 22;
   -- 又要回表，所以不如直接一级索引全表扫描
@@ -484,11 +484,14 @@ select id,`name`,age,position from employees where name > 'LiLei';
   例如 course 表中的联合索引 (title,price)
 	explain select id,title,price,description from course where title like '高%' and price = 999;
     5.6之前
-		  若部分索引失效，失效的索引不会继续查找；拿到主键值，回表查询；拿到完整行数据，再筛选符合的条件
-			title 最左匹配
+		  若部分索引price失效，不会继续查找price；
+			根据部分索引title拿到主键值，回表查询；
+			拿到完整行数据，再筛选符合的条件
 			
     5.6之后
-		  在未失效索引中，继续进行条件筛选，拿到符合条件的主键值，回表查询
+		  在索引遍历时，同时对price也做判断；
+			只有 title + price 都匹配的记录才会回表；
+			回表直接取出数据，不用再筛选
 */
 /* 查询各种操作的值 */
 show variables like '%optimizer_switch%';
