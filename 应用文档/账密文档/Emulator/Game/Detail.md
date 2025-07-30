@@ -184,7 +184,13 @@ Viski
 [动态-3D] → [★待定]
 
 # 文件保存目录
-暂无
+%UserProfile%\AppData\Local\Project_Plague\Saved\GameSlots
+```
+
+#### [V1.3](https://www.xianyudanji.ai/73828.html)  |  [补丁1](https://pan.quark.cn/s/9b18251af65e)  |  [补丁2](https://pan.quark.cn/s/35256efe1954)
+
+```tex
+文件/Game/明末：渊虚之羽 v178067/补丁
 ```
 
 #### [V178067](https://laoguan777.com/37401.html)  |  [夸克](https://pan.quark.cn/s/3a3fded29755)
@@ -214,8 +220,20 @@ Viski
 # [玩法] → [可玩性]
 [动态-3D] → [★待定]
 
+# 截图目录
+.\Screenshots
 # 文件保存目录
-暂无
+%UserProfile%\AppData\Local\SB\Saved\SaveGames
+```
+
+#### # PlayStation
+
+```markdown
+# 账密
+outtaame@gmail.com
+what.0414
+# 用户名
+viskixin
 ```
 
 #### [V-Latest](https://v.douyin.com/wGDAXYRJ_XY/)  |  [脚本](./详细文件/StellarBlade/shell/pws)

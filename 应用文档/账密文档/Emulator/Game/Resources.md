@@ -221,22 +221,44 @@ outtaame@gmail.com
 Xw2244255266
 ```
 
-### [The Killing Antidote](https://www.nexusmods.com/games/thekillingantidote)
+### 模组地址
 
 ```markdown
-# 详细地址
+# The Killing Antidote
+-- 导航
+https://www.nexusmods.com/games/thekillingantidote
+-- 详情
 https://www.nexusmods.com/games/thekillingantidote/mods
 ```
 
 ## 【[创意工坊](https://steamcommunity.com/workshop)】
 
-### [The Killing Antidote](https://steamcommunity.com/app/2254890/workshop)
+``` markdown
+# 进入方式
+1) 在[创意工坊]页面[搜索]想要的[游戏]
+2) 在对应[游戏]界面[点击]标签[社区中心]再[点击]标签[创意工坊]
+
+# 下载介绍
+必须[入库]通过[验证]才能[显示]模块[订阅以下载] → 点击[＋ 订阅]即可[下载并安装]模组
+进入[订阅模组]悬浮[√ 订阅]点击[× 取消阅]自动[卸载并删除]模组
+在 [浏览] → [订阅的物品] 可快速定位 [当前模组]
+在 [您的创意工坊文件] → [您的文件] → [订阅的物品] 可快速定位 [所有模组]
+
+# 注意事项
+在 [创意工坊] 只能搜索 [模组名] 不能搜索 [游戏名]
+
+# 下载器
+https://steamworkshopdownloader.io
+```
+
+### 模组地址
 
 ```markdown
-# Jodi的眉妆
+# The Killing Antidote
+-- 导航
+https://steamcommunity.com/app/2254890/workshop
+-- 详情(Jodi的眉妆)
 https://steamcommunity.com/sharedfiles/filedetails/?id=3421366881
--- 订阅后下载(切换下载地区之后重试)
-如果不能下载 → 点击 Steam → 设置 → 下载 → 下载地区[中国-香港]
 ```
 
 # [游戏详情](./Detail.md)
