@@ -77,6 +77,8 @@ bin/zkServer.sh status
 cd /usr/local/soft/kafka-3.4.1
 # 后台模式启动
 bin/kafka-server-start.sh -daemon config/server.properties
+# 停止
+bin/kafka-server-stop.sh
 ```
 
 ### [workspace2](D:\DevDoc\VMware\workspace2)
