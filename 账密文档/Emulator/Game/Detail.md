@@ -265,6 +265,44 @@ JN4X4-Q8KNV-BZ34F-BR2FO
 
 <a href="攻略文档\StellarBlade.md">剑星</a>
 
+### [最终幻想]
+
+#### # 详情介绍
+
+译名:  最终幻想 7 重生
+
+原作:  [FINAL FANTASY VII REBIRTH](https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/)
+
+发行:  [Square Enix](https://store.steampowered.com/publisher/squareenix?snr=1_5_9__2000)
+
+#### [V1.001](https://lzlgo.com/archives/3952)  |  [夸克](https://pan.quark.cn/s/8543f938189d)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
+### [机械纪元]
+
+#### # 详情介绍
+
+译名:  尼尔：机械纪元
+
+原作:  [NieR:Automata](https://store.steampowered.com/app/524220/NieRAutomata/)
+
+作者:  [PlatinumGames Inc](https://store.steampowered.com/developer/PlatinumGames)
+
+发行:  [Square Enix](https://store.steampowered.com/publisher/squareenix?snr=1_5_9__2000)
+
+#### [V6.5](https://lzlgo.com/archives/14577)  |  [夸克](https://pan.quark.cn/s/c5a9e722d2c4)
+
+#### 攻略
+
+```markdown
+暂无
+```
+
 ## 【AVG】
 
 ### [辐射 4]
@@ -330,66 +368,6 @@ https://pan.baidu.com/s/11FNkRQHhkVK8D2S6smCzKg?pwd=6666
 
 ```markdown
 暂无
-```
-
-## 【Roguelike】
-
-### [小鸡舰队出击]
-
-#### # 详情介绍
-
-原作:  [小鸡舰队出击](https://www.wandoujia.com/apps/8386749/history)
-
-```markdown
-# 官服-起始日期
-2025年5月28日
-# 账密-抖音小程序
-授权登录
-# 服务器
-农场5服 → ID: 347009563
-```
-
-实名:  [身份证](https://zhidao.baidu.com/question/314522582584223324.html)
-
-```markdown
-# 临时账密
-doinno
-qwer1234
-# 验证信息
-吴恒河
-422123196802174959
-```
-
-#### [BT服2](https://www.kdocs.cn/l/cixdRO3011dv)  |  [公告2](https://www.kdocs.cn/l/cgJ1IhIppxED)  |  [热门BT](https://shimo.im/docs/16q8xRGXDMU68gq7/read)
-
-#### [BT服1](https://shimo.im/docs/d8xwiMzA9vvbtiL1/read)  |  [公告1](https://shimo.im/docs/j47fDs9ikwXu1OnJ/read)  |  [热门BT](https://shimo.im/docs/gO3odDYZxVhPG6qD/read)
-
-```markdown
-# BT服-起始日期
-2025年7月03日
-# 账密1-APP登录
-viski
-what.0414
-# 账密2-APP登录
-weski
-what.0414
-# 服务器
-正式服-1	→	ID: 1013230
-正式服-5	→	ID: 5006286
-正式服-6	→	ID: 6004963
-正式服-11	→	ID: 11005851
-```
-
-#### 攻略
-
-```markdown
-# 可使用 gameguardian 修改器
--- new(W)
-20000;200;200;2000
--- next(W)
-20000
--- updatet(W)
-200
 ```
 
 ## 【RPG】
@@ -1904,6 +1882,68 @@ C8FAC8BD8B5AA5A3926C2606FA60A72AYour wife's vagina is so cool
 
 ```markdown
 暂无
+```
+
+# Others
+
+## 【Roguelike】
+
+### [小鸡舰队出击]
+
+#### # 详情介绍
+
+原作:  [小鸡舰队出击](https://www.wandoujia.com/apps/8386749/history)
+
+```markdown
+# 官服-起始日期
+2025年5月28日
+# 账密-抖音小程序
+授权登录
+# 服务器
+农场5服 → ID: 347009563
+```
+
+实名:  [身份证](https://zhidao.baidu.com/question/314522582584223324.html)
+
+```markdown
+# 临时账密
+doinno
+qwer1234
+# 验证信息
+吴恒河
+422123196802174959
+```
+
+#### [BT服2](https://www.kdocs.cn/l/cixdRO3011dv)  |  [公告2](https://www.kdocs.cn/l/cgJ1IhIppxED)  |  [热门BT](https://shimo.im/docs/16q8xRGXDMU68gq7/read)
+
+#### [BT服1](https://shimo.im/docs/d8xwiMzA9vvbtiL1/read)  |  [公告1](https://shimo.im/docs/j47fDs9ikwXu1OnJ/read)  |  [热门BT](https://shimo.im/docs/gO3odDYZxVhPG6qD/read)
+
+```markdown
+# BT服-起始日期
+2025年7月03日
+# 账密1-APP登录
+viski
+what.0414
+# 账密2-APP登录
+weski
+what.0414
+# 服务器
+正式服-1	→	ID: 1013230
+正式服-5	→	ID: 5006286
+正式服-6	→	ID: 6004963
+正式服-11	→	ID: 11005851
+```
+
+#### 攻略
+
+```markdown
+# 可使用 gameguardian 修改器
+-- new(W)
+20000;200;200;2000
+-- next(W)
+20000
+-- updatet(W)
+200
 ```
 
 # 文件修改
