@@ -41,6 +41,21 @@ acgbns.com
 ACGBNS
 ```
 
+## 【[蒸汽游戏宝库](https://www.steambk.com)】
+
+```markdown
+# 发布地址
+https://link3.cc/flystar_site
+
+# 账密
+暂无
+
+# 解压密码
+feixing123.cc
+feixing66.com
+flystar.site
+```
+
 ## 【[关先生资源站](https://laoguan777.com)】
 
 ```markdown

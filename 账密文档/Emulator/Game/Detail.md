@@ -187,6 +187,8 @@ Viski
 
 #### # 详情介绍
 
+别名:  Wuchang Fallen Feathers
+
 原作:  [明末：渊虚之羽](https://store.steampowered.com/app/2277560/)
 
 作者:  [Leenzee](https://store.steampowered.com/search/?developer=Leenzee)
