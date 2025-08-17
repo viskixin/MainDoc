@@ -3,8 +3,8 @@
 ```markdown
 # 游戏风格
 ACT(Action Game)					动作游戏
-AVG(Adventure Game)					冒险游戏(也称 ADV)
 ARPG(Action Role Playing Game)		动作角色扮演
+AVG(Adventure Game)					冒险游戏(也称 ADV)
 FPS(First Person Shooter)			第一人称射击
 FTG(Fighting Game)					格斗游戏
 QSP(Quest Soft Player)				互动叙事游戏
@@ -177,6 +177,14 @@ Viski
 
 发行:  S-GAME
 
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
 #### 攻略
 
 ```markdown
@@ -197,7 +205,7 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★待定]
+[动态-3D] → [★4]
 
 # 文件保存目录
 %UserProfile%\AppData\Local\Project_Plague\Saved\GameSlots
@@ -234,7 +242,7 @@ Viski
 
 ```markdown
 # [玩法] → [可玩性]
-[动态-3D] → [★待定]
+[动态-3D] → [★5]
 
 # 截图目录
 .\Screenshots
@@ -277,6 +285,14 @@ JN4X4-Q8KNV-BZ34F-BR2FO
 
 发行:  [Square Enix](https://store.steampowered.com/publisher/squareenix?snr=1_5_9__2000)
 
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
 #### [V1.001](https://lzlgo.com/archives/3952)  |  [夸克](https://pan.quark.cn/s/8543f938189d)
 
 #### 攻略
@@ -297,6 +313,14 @@ JN4X4-Q8KNV-BZ34F-BR2FO
 
 发行:  [Square Enix](https://store.steampowered.com/publisher/squareenix?snr=1_5_9__2000)
 
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
 #### [V6.5](https://lzlgo.com/archives/14577)  |  [夸克](https://pan.quark.cn/s/c5a9e722d2c4)
 
 #### 攻略
@@ -306,6 +330,30 @@ JN4X4-Q8KNV-BZ34F-BR2FO
 ```
 
 ## 【AVG】
+
+### [双影奇境]
+
+#### # 详情介绍
+
+原作:  [Split Fiction](https://store.steampowered.com/app/2001120/)
+
+作者:  [Hazelight Studios](https://store.steampowered.com/developer/hazelight)
+
+发行:  [Electronic Arts](https://store.steampowered.com/publisher/EA)
+
+```markdown
+# [玩法] → [可玩性]
+[动态-3D] → [★待定]
+
+# 文件保存目录
+暂无
+```
+
+#### 攻略
+
+```markdown
+暂无
+```
 
 ### [辐射 4]
 
