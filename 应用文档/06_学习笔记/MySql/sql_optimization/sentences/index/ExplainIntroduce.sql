@@ -1,8 +1,8 @@
 /*索引前言
 	添加索引：
 						alter table 表名 add primary key (列名);
-						alter table 表名 add index 索引名(列名);
-						alter table 表名 add unique 索引名(列名);
+						alter table 表名 add index 索引名 (列名);
+						alter table 表名 add unique 索引名 (列名);
 	删除索引：
 						alter table 表名 drop primary key;
 						alter table 表名 drop index 索引名;  或者  drop index 索引名 on 表名;
