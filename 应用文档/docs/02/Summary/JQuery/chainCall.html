@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>链式调用</title>
+        <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    </head>
+
+    <body>
+        <!-- 下拉列表框 -->
+        <select class="mySelect">
+            <option value="o1">选项 1</option>
+            <option value="o2">选项 2</option>
+            <option value="o3">选项 3</option>
+            <option value="o4">选项 4</option>
+            <option value="o5">选项 5</option>
+        </select>
+    </body>
+</html>
+
+<script>
+    (function () {
+        $('.mySelect')
+            .on('focusin', function (e) {
+                // focusin只有点击当前选择器之外的元素，才会再次触发
+                var focusinVal = $(this).val()
+                $(this).data('customVal', focusinVal);
+                console.log("focusinVal", focusinVal);
+            })
+            .change(function (e) {
+                // 将每次选择的option置为红色
+                var option = $(this).find('option:selected');
+                $(option).css("color", 'red');
+                $(option).css("font-size", '20px');
+
+                var f = $(this).data('customVal');
+                var c = $(this).val();
+                console.log("customVal", f, "\ncurrentVal", c);
+            })
+            .attr('style', 'color: green');
+    })();
+</script>

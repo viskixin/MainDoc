@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>$().click('click', fn())</title>
+</head>
+
+<body>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+    </ul>
+</body>
+
+</html>
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+<script>
+    debugger;
+    $(function () {
+        // 效果：后面动态创建的5和6，也能被点击触发函数
+        $('body').on('click', 'ul>li', function () {
+            console.log($(this).html());
+        });
+        $('ul').append('<li>5</li><li>6</li>');
+    });
+</script>
